@@ -7,3 +7,5 @@
 ![Events](Images/IS.jpeg)
 
 ![Events](Images/SA_and_SSFS.jpeg)
+
+![Events](Images/Cognizant.jpeg)
