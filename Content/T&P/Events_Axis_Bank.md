@@ -15,10 +15,28 @@
 
 ---
 \
-![Infosys](Images/infy1.png)
+![Infosys](Images/FEP_1.jpeg)
 ---
 \
-![Infosys](Images/infy2.png)
+![Infosys](Images/FEP_2.jpeg)
+---
+\
+![Infosys](Images/FEP_23.jpeg)
+---
+\
+![Infosys](Images/FEP_4.jpeg)
+---
+\
+![Infosys](Images/FEP_5.jpeg)
+---
+\
+![Infosys](Images/FEP_6.jpeg)
+---
+\
+![Infosys](Images/FEP_7.jpeg)
+---
+\
+![Infosys](Images/FEP_8.jpeg)
 
 ## Students Internships 
 
