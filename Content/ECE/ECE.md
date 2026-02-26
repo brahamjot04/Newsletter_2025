@@ -259,47 +259,70 @@ Dr. Munish Rattan
 -Prof. Shivmanmeet Singh (ISF Secretary)
 
 -----------------------------------------
-### Hands on experience on Soldering and Desoldering
+### Expert Lecture on PLC for Industrial applications
+
+![Arduino and Soldering](Images/AS2.jpg)
+
+- <div align="jutify"> The PLC workshop usually begins with an introductory session, where participants are briefed on the importance of PLCs in modern industrial processes. The session outlines how PLCs are used to automate various industrial operations, ranging from simple machine functions to complex processes involving multiple sensors and actuators. Participants are introduced to the basic architecture of PLCs, includingthe central processing unit (CPU), memory, input/output (I/O) modules, and communication interfaces.</div>### Hands on experience on Soldering and Desoldering
 ![Gusto Knack](Images/GKposter.jpg)
 
-![Gusto Knack](Images/GK1.jpg)
+-----------------------------------------
+### Hands on experience on Soldering and Desoldering
 
-![Gusto Knack](Images/GK2.jpg)
+![Arduino and Soldering](Images/AS2.jpg)
 
 - <div align="jutify"> In alignment with this vision, ISF hosted a knowledge-based event on October 11, 2024, featuring a lecture by Er. Shivmanmeet Singh, a distinguished professor from the Electronics and Communication Engineering Department. The session focused on the fundamentals of soldering and desoldering, providing students with comprehensive insights into these essential electronic assembly techniques. During the event, the professor delivered an in-depth lecture covering the principles, tools, and best practices of soldering and desoldering. Following the theoretical session, students had the opportunity to apply their learning through a hands-on demonstration, further reinforcing their understanding of the concepts. This event served as a valuable platform for students to gain practical exposure and enhance their technical proficiency in electronics manufacturing and repair.</div>
 
 -----------------------------------------
-### Workshop on Arduino and Soldering
+### Digital Artistry
 
-![Arduino and Soldering](Images/ASposter.png)
+![Advisor Session (Wireless Communication)](Images/WC2.jpg)
 
-![Arduino and Soldering](Images/AS1.jpg)
-
-![Arduino and Soldering](Images/AS2.jpg)
-
-- <div align="jutify"> This event was organized in April 2023; Every Thursday for 3 weeks starting 13th April 2023.This was a workshop organized to make the students familiar with topics like Arduino and Soldering. This was a peer-to-peer event and our kind seniors Puran Singh and Satnam Singh were the tutors for the event. This was a practical learning workshop where students practiced everything themselves simultaneously.</div>
+- <div align="jutify">ISF hosted a Fun-Techno event titled "Digital Artistry" on October 14, 2024. During this event, students were tasked with creating a
+digital poster on a chosen topic within a specified timeframe.</div>
 
 -----------------------------------------
-### Expert Talk on Emerging Technologies by Prof. P. Prabhakar(Immediate Past President of IETE Student’s Forum)
+
+### Two days workshop on Digital Electronics and VHDL
+
+![Advisor Session (Wireless Communication)](Images/WC2.jpg)
+
+- <div align="jutify">ISF successfully hosted a two-day workshop on “Digital Electronics and VHDL” on 28th and 29th October 2024. The workshop offered in-depth coverage of key topics such as combinational circuit design and its real-time applications, signal conversion between analog and digital signals, and programming and design using VHDL</div>
+
+-----------------------------------------
+### Two days workshop on 3D Printing:Peer to Peer Learning
+
+![Advisor Session (Wireless Communication)](Images/WC2.jpg)
+
+- <div align="jutify">ISF conducted a two-day workshop on *3D Printing,held on November 11, 2023, and November 13, 2024. On the first day,participants were guided to create sketches using AutoCAD software. A select group of students were shortlisted based on their performance. On the second day, these shortlisted students utilized 3D printers to transform their sketches into tangible 3D models. This workshop served as a hands-on learning experience, fostering innovation
+and technical excellence among participants </div>
+
+-----------------------------------------
+### Technova
+
+![Advisor Session (Wireless Communication)](Images/WC2.jpg)
+
+- <div align="jutify">ISF organized a Techno event based on Project Exhibition named “Technova” on 25 November, 2024. During the event, participants had the opportunity to display their projects and were required to present and explain their work to both students and judges. This provided them with a platform to
+showcase their ideas, strengthen their communication skills, and receive constructive feedback from the judges. </div>
+
+-----------------------------------------
+### Guess-a-Graphy
+
+![Advisor Session (Wireless Communication)](Images/WC2.jpg)
+
+- <div align="jutify">ISF organise a fun event named” Guess-a-Graphy” based on general knowledge on 23 of April 2025.Guess-a-Graphy was a thrilling and intellectually engaging quiz competition that tested participants’ knowledge of the corporate world through three dynamic rounds.</div>
+
+-------------‐-------------------------------
+
+### Workshop on Mobile chipset repairing
 
 ![Emerging Technologies](Images/ETposter.png)
 
 ![Emerging Technologies](Images/ET1.jpeg)
 
-- <div align="jutify">This event was organized on 17th May 2023.The expert lecture was given by IETE Student’s Forum Immediate Past President Prof. P. Prabhakar. Sir educated us about his detailed knowledge about the Emerging Technologies. The listeners also asked any questions they had and discussed about the new possibilities in the technology area.</div>
+- <div align="jutify"> The IETE Students’ Forum (ISF) at Guru Nanak Dev Engineering College, Ludhiana,hosted a practical and informative workshop on Mobile Chipset Repairing and Software Automation on 11th April 2025.The session was expertly conducted by Mr. Harjot and Mr Abishek, specialists in mobile chipset repair and embedded systems. He provided an in-depth demonstration of chip-level repair techniques, showcasing the use of professional equipment such as digital microscopes, and diagnostic software. A significant portion of the workshop focused on the Apple A13 Bionic chipset, where participants examined its architecture, identified critical components on the motherboard, and explored rework methods commonly applied in modern smartphone servicing. In addition, the workshop covered practical aspects of soldering and desoldering components on the logic board, along with guidance on how iPhone servicing is professionally carried out, including common troubleshooting workflows and repair practices followed in industry labs.</div>
 
------------------------------------------
-### Expert Talk on Wireless Communication
 
-![Advisor Session (Wireless Communication)](Images/WCposter.jpg)
-
-![Advisor Session (Wireless Communication)](Images/WC1.jpg)
-
-![Advisor Session (Wireless Communication)](Images/WC2.jpg)
-
-- <div align="jutify">This event was organized on 22nd September 2023.The expert lecture was given by Dr. MehtabSingh(Top 1% Researcher in Optical Communication). Sir educated about his detailed knowledge in the topic. He was very cooperative and answered many questions of the listeners. His detailed knowledge in the given topic was extremely helpful to the listeners.</div>
-
--------------‐-------------------------------
 ### Code Debugging
 
 ![Advisor Session (code)](Images/CDposter.jpg)
