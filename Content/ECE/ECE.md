@@ -78,8 +78,8 @@ Co-Coordinator: Dr. Gurjot Kaur Walia and Dr. Preeti Pannu
 
 ### Project Design using Arduino and Raspberry Pi from 23, June 2025 to 18, July 2025
 
-![Students](Images/bi.jpg)
-
+![Students](Images/dsw11.jpg)
+![Students](Images/dsw22.jpg)
 -----------------------------------------
 
 ### Visit to Bharat Electronics on 30, June 2025
