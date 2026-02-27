@@ -8,6 +8,12 @@
 ![Glimpses](Images/glimpses/IMG-20241212-WA0042.jpeg)
 \
 ![Glimpses](Images/glimpses/IMG-20241212-WA0024.jpg)
+\
+![Glimpses](Images/glimpses/12.jpeg)
+\
+![Glimpses](Images/glimpses/13.jpeg)
+\
+![Glimpses](Images/glimpses/14.jpeg)
 
 <div align="center">
 <table>
