@@ -49,6 +49,11 @@ Dr. Munish Rattan
 -----------------------------------------
 
 
+### Teacher's Day Celebration at 5, Sept. 2024
+
+![Students](Images/SPGH.jpg)
+
+-----------------------------------------
 
 ## Faculty Achievements  
 
