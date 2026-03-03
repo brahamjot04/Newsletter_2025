@@ -1,15 +1,15 @@
-̨̨
 # Department of Electronics and Communication  Engineering
 
 
 ## Message from HoD's Desk  
 
 
-![nsg](Images/nsg.png)
+![HOD photo](Images/IMG_6447.png)
+
 
 <div align = "justify">The Department of Electronics and Communication Engineering, established in 1981, is one of the most dynamic departments of Guru Nanak Dev Engineering College. It was the first major diversification initiative by the college, 25 years after its establishment. The department is currently running Bachelors and Masters of Technology courses in Electronics and Communication Engineering and has around 10 scholars enrolled for doctorate in areas like Antenna Design, VLSI, Optical communication etc. Ever since its inception, the department has been the hub of academic excellence through some great teachers who have laid a sound foundation as well as the cream of students of the region, who have spread their wings all over the globe. The alumni of the department are not only excelling in India but also in the Silicon Valley and other hubs of Electronics Technology. They are at the forefront of the Telecom revolution of the last 20 years and manning pivotal positions in Telecom operators in India, South East Asia, Pacific region and Africa. In the end, I can say that we incorporate good technical skills and knowledge to each individual associated with us.</div>
 
-Dr. Narwant Singh Grewal  
+Dr. Munish Rattan   
 (Head of Department)
 
 
@@ -27,56 +27,10 @@ Dr. Narwant Singh Grewal
 
 -----------------------------------------
 
-### ECE faculties at Semicon Roadshow on 27 Feb, 2023
 
-![Students](Images/w.png)
-
-![Students](Images/x.png)
-
------------------------------------------
-
-### Two Days workshop on 3D Printing (The Future Generation Technology) from 2, May 2023 to 3, May 2023
-
-![Students](Images/CP.png)
-
-
-------------------------------------------
-
-###  Industrial Visit to BSNL Ludhiana in relation with Four week Training course on Digital Designing and Secured Wireless Communication from 10, July 2023 to 4, Aug 2023
-
-![Students](Images/GCNT.jpg)
-![Students](Images/GCN.jpg)
-
-------------------------------------------
-
-###  Four week Training course on Project Design using Microcontroller Consultancy from 10, July 2023 to 4, Aug 2023
-
-![Students](Images/SMMT.jpg)
-![Students](Images/SMM.jpg)
-
----------------------------------------
-
-### Teachers Day Celebration at ECE Department on 5, Sept 2023
-
-![Students](Images/TD.jpg)
-
------------------------------------------
-
-### E-Vision 2023 organized by IETE Student Forum on 06, Oct 2023
-
-![Students](Images/EV.jpg)
-![Students](Images/EVS.png)
-
------------------------------------------
-
-### Two weeks value added workshop on "Hands-on Training Program on Development in Communication Engineering and Electronics" under IETE Student Forum from 19, Feb 2024 to 1, Mar 2024
-
-![Students](Images/VAT.jpg)
-![Students](Images/VA.jpg)
-
------------------------------------------
-
-### Four Week Training on Project Design using Microcontroller Consultancy from 5, June 2024 to 5, July 2024
+### Four Week Training on Project Design using Microcontroller from 5, June 2024 to 5, July 2024
+- Coordinator: Dr. Gurpurneet Kaur & Dr. Shivmanmeet Singh
+- Co-Coordinator: Prof. Harminder Kaur D/o Avtar Singh & Dr. Preeti Pannu
 
 ![Students](Images/KKD.jpg)
 ![Students](Images/KKD1.jpg)
@@ -84,6 +38,7 @@ Dr. Narwant Singh Grewal
 -----------------------------------------
 
 ### Four Week Training on Robotics with ML from 11, June 2024 to 11, July 2024
+- Coordinator: Dr. Shivmanmeet Singh
 
 ![Students](Images/PS.jpg)
 ![Students](Images/PS1.jpg)
@@ -91,193 +46,48 @@ Dr. Narwant Singh Grewal
 -----------------------------------------
 
 ### Four Week Training on Advanced Simulation Techniques for PLC Automation & IoT in Embedded System from 5, June 2024 to 5, July 2024 
+- Coordinator: Prof. Kuldeepak Singh, Prof. Daljit Singh
+- Co-Coordinator: Prof. Kunwarpartap Singh
 
 ![Students](Images/SPGH.jpg)
 
 -----------------------------------------
 
-### Online Talk with IIT Madras on Optical Communication, 2024
+### Teacher's Day Celebration at 5, Sept. 2024
 
-![Students](Images/z.png)
-
-![Students](Images/y.png)
+![Students](Images/tdc.jpg)
 
 -----------------------------------------
 
+### GNE's APEX 2024: Project demonstration and display by ECE students on 25, Oct 2025
 
-## Faculty Achievements  
+![Students](Images/apd1.jpg)
+![Students](Images/apd2.jpeg)
 
-- **Shivmanmeet Singh** validating the lectures of SWAYAM course Chemical Reaction Engineering-I in Punjabi language in July-Dec 2023.
-
-- **Shivmanmeet Singh** reviewed Paper entitled "The landscape of photoaging: From bench to bedside in a bibliometric analysis" of Frontiers in PublicHealth journal which falls under SCIE journal with impact factor "5.2" in July-Dec 2023.
- 
-- **Shivmanmeet Singh** Selected as organizing committee international member titled “4th international conference on advanced optics & photonics research in engineering” in China, Wuhan in Jan-June 24.
-
-- **Shivmanmeet Singh** Reviewed paper entitled "Adaptation of the ant colony algorithm to avoid congestion in wireless mesh networks" in International Journal of Electrical and Computer Engineering Systems under ESCIE journal with impact factor "0.8" in Jan-June 2024.
-
-- **Shivmanmeet Singh** Reviewed paper entitled "Performance Optimization of Universal Filtered Multicarrier Technique for Next Generation Communication Systems" in International Journal of Electrical and Computer Engineering Systems under ESCIE journal with impact factir "0.8" in Jan-June 2024.
-
-- **Baljeet Kaur** successfully guided two students in completing their Ph.D research in July-Dec 2023.
-
-- **Gurpurneet Kaur** received Elite and Silver for NPTEL course Fundamentals of Electronic device fabrication in July 2023.
-
-
-## Publications  (Journals)
-
--  Harleen Kaur, **Narwant Singh Grewal**, "Performance enhancement of visible light communication (VLC) system incorporating WMZCC‐OCDMA codes and PDM‐QPSK‐DSP data encoding." International Journal of Communication Systems 36.1 (2023): e5355.
-
-- **Shivmanmeet Singh, Narwant Singh Grewal, Baljeet Kaur**, "Performance investigation and development of 112 gbit/s dual polarization 16 QAM transmission system using differential encoding." Optical and Quantum Electronics 55.1 (2023): 70.
-
-- **Chahat Jain**, Balwinder S. dhaliwal, Rupinder Singh, Suman Pattnaik, "On Comparison of 3D-Printed ABS and PVDF-Based Sensors for Body-Centric Utility." Arabian Journal for Science and Engineering 48.9 (2023): 12645-12655.
-
-- **Harminder Kaur, Baljeet Kaur**, Ridheyjot Kaur, "A Review on OTDM Transmission." Int. J. Eng. Res. Technol 12 (2023).
-
-- **Chahat Jain**, Balwinder S. dhaliwal, Rupinder Singh, Suman Pattnaik, "On 3D Printed Flexible and Wearable Sensors from Primary Recycled PVDF." National Academy Science Letters 47.2 (2024): 157-160.
-
-- Harleen Kaur, **Narwant Singh Grewal**, "Security enhancement of an integrated mode division multiplexed VLC system using two-dimensional WMZCC codes." Journal of Optics 53.1 (2024): 622-634.
-
-- **Shivmanmeet Singh, Narwant Singh Grewal, Baljeet Kaur**, "Analysis of hybrid PDM-4QAM-OFDM for inter-satellite/mechatronic telecommunication using FSO system." Opto-Electronics Review 31.3 (2023).
-
-- Tarandeep Singh, Aseem Verma, **Navneet Kaur**, Manjeet Singh, "Enhancing conservation seeding techniques: a vibration analysis of spatially modified no-till drill in combine harvested rice fields." Proceedings of the Indian National Science Academy 89.4 (2023): 914-923.
-
-- Pooja Sharma, **Navneet Kaur**, Gurpurneet Kaur, "Performance Assessment of III-V Heterojunction FinFETs at 14nm Gate Length." Journal Punjab Academy of Sciences 23 (2023): 296-301.
-
-- **Harminder Kaur, Baljeet Kaur**, Manjit Singh Bhamrah, "Flat top optical multicarrier generation for ultra dense asymmetrical radio over fiber system." Optoelectronics and Advanced Materials-Rapid Communications 18.May-June 2024 (2024): 263-274.
-
-- **Preeti Pannu**, "Highly compact UWB-MIMO antenna with sharp multi-stop band characteristics." EURASIP Journal on Wireless Communications and Networking 2024.1 (2024): 48.
-
-- Jaspreet Kaur, **Narwant Singh Grewal, Navneet Kaur**, "A Symmetrical 32× 1 and 16× 1 Elements Antenna Array Failure Correction with Nulls Using Brain Storm Optimization." Wireless Personal Communications 136.4 (2024): 2405-2418.
-
-- **Shivmanmeet Singh**, "Intelligent Development in Healthcare With the Internet (chapter)", Computational Intelligence and Blockchain in Biomedical and Health Informatics (Springer 2024).
-
-
-## Publications  (Conferences)
-
-- Mansi, **Munish Rattan, Gurjot Kaur Walia**, "Performance Analysis Of GAAFET Device Using HfO2 and SiO2", 4th International Conference on Innovative Trends in Electronics Engineering(ICITEE 2023).
-  
-- **Shivmanmeet Singh, Narwant Singh Grewal and Baljeet Kaur**, "Performance Evaluation of Inter-satellite Optical Wireless System (IsOWC) on nongeostaionary orbit using PDM- 256 QAM with DSP", 4th International Conference on Innovative Trends in Electronics Engineering(ICITEE 2023).
-
-- **Harminder Kaur, Baljeet Kaur**, Manjeet Singh Bhamrah, "Opical Muli-carrier Generation Using Cascaded Three Stage Modulators", 4th International Conference on Innovative Trends in Electronics Engineering(ICITEE 2023).
-
-- **Harminder Kaur, Baljeet Kaur**, Manjeet Singh Bhamrah, "100 GHz Radio Signal Over 160 Gbps-160 km ROF link Using Polarization Division Multiplexing based 256-QAM and Matched Filter", 4th International Conference on Innovative Trends in Electronics Engineering(ICITEE 2023).
-
-- **Navneet Kaur, Gurpurneet Kaur**, Pooja Sharma, "Performance Assessment of III-V Heterojunction FinFETs at 14nm Gate Length", 4th International Conference on Innovative Trends in Electronics Engineering(ICITEE 2023).
-
-- **Narwant Singh Grewal, Preeti Pannu, Gurpurneet Kaur**, "A Linear 16x1 and 42x1 elements antenna array failure correction using brain storm optimization algorithm", 11th International Conference on Advancement in Engineering and Technology(ICAET 2023).
-
-- **Preeti Pannu**, "Breakthrough trends of Nanotechnology in the Biomedical Industry", National Conference on Intelligent Electronic Systems and Applications (NCIESA-2024).
-
-- **Harleen Kaur**, "Parameter Estimation in Design of 5.2GHz Rectangular U Slot Microstrip Patch Antenna with ANFIS", 5th World Conference on Artificial Intelligence: Advances and Applications (WCAIAA 2024).
-
-- Harleen Kaur, **Shivmanmeet Singh, Preeti Pannu**, "Unleashing the power of data in data science", 6th International Conference on Recent Innovations in Science & Technology(RIST 2024).
-
-- **Gurjot Kaur Walia, Navneet Kaur, Chahat Jain**, "Image Demosaicing using Naïve Bayes Classifier for Improved Image Metrics", 6th International Conference on Recent Innovations in Science and Technology(RIST-2024).
-
-- Ramneet Kaur Sahota, **Preeti Pannu, Gurjot Kaur Walia**, "Performance Analysis of Radio Over FSO for Advanced Modulation Formats", 6th International Conference on Recent Innovations in Science and Technology(RIST-2024).
-
-
-## Publications  (Books)
-
-- **Shivmanmeet Singh**, "Quantum Hits: Hardware, Information, Technology & Simulation", Amazon kindle (Aug 2023).
-
-- **Shivmanmeet Singh, Preeti Pannu**, "Information Management and Data Analytics", Amazon kindle (Oct 2023).
-
-
-## Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
-
-| Sr. No. | Name of Event                                                  | Faculty Coordinator           | Duration | Date(s)               | Sponsor(s) |
-|:--------|:---------------------------------------------------------------|:------------------------------|:---------|:----------------------|:-----------|
-| 1       | Peer Learning(Acceleration zone 3.o) | Shivmanmeet Singh | One Day | 23-02-2023 | GNDEC, Ludhiana |
-| 2       |  National Science Day | Simranjit Kaur| One day | 28-02-2023 | FMCRS, GNDEC, Ludhiana |
-| 3       | Talk to alumnus on benefits of NBA accreditation in Foreign Universities | Shivmanmeet Singh | One Day | 01-03-2023 | GNDEC, Ludhiana |
-| 4       | Khabar Da Safar| Shivmanmeet Singh | One Day | 14-03-2023 | GNDEC, Ludhiana |
-| 5       | Shark Chef | Shivmanmeet Singh | One Day | 15-03-2023 | GNDEC, Ludhiana |
-| 6       | Tag it | Shivmanmeet Singh | One Day | 16-03-2023 | GNDEC, Ludhiana |
-| 7       |  TechWar | Simranjit Kaur| One day | 16-03-2023 | FMCRS, GNDEC, Ludhiana |
-| 8       | Gusto Knack-Tech Fest | Shivmanmeet Singh | One Day | 16-03-2023 | GNDEC, Ludhiana |
-| 9       | Alumnus talk on how to crack microsoft | Shivmanmeet Singh | One Day | 22-03-2023 | GNDEC, Ludhiana |
-| 10      | Introduction to Arduino and Hands-on Soldering | Shivmanmeet Singh |One Day| 13-04-2023 |GNDEC, Ludhiana |
-| 11      | Khabar Da Safar | Shivmanmeet Singh | One Day | 18-04-2023 | GNDEC, Ludhiana |
-| 12      | Two days workshop on 3D Printing: A future generation Technology | Preeti Pannu, Chahat Jain | Two Days |02-05-2023 to 03-05-2023 | GNDEC, Ludhiana |
-| 13      | Reels for Labour day | Shivmanmeet Singh | One Day | 01-05-2023 | GNDEC, Ludhiana |
-| 14      | Gaana Gapshup | Shivmanmeet Singh | One Day | 02-05-2023 | GNDEC, Ludhiana |
-| 15      | One day event Tag-a-Thon| Simranjit Kaur  | One Day | 20-08-2023 | FMCRS, GNDEC, Ludhiana |
-| 16      | National Eye Donation Fortnight | Simranjit Kaur  | Two Weeks |25-08-2023 to 28-09-2023 | FMCRS, GNDEC, Ludhiana |
-| 17      | Talent Hunt | Shivmanmeet Singh | One Day | 12-08-2023 | GNDEC, Ludhiana |
-| 18      | Peer to Peer Learning Acceleration zone 4.0 | Shivmanmeet Singh | One Day | 31-08-2023 | GNDEC, Ludhiana |
-| 19      | Workshop on MYTACS GLOBALLINK scholarship | Shivmanmeet Singh | One Day | 13-09-2023 | GNDEC, Ludhiana |
-| 20      | Workshop on Photography and Sound Engineering | Shivmanmeet Singh | One Day | 19-09-2023 | GNDEC, Ludhiana |
-| 21      | Ragamala- A Garland of Architecture and Music | Shivmanmeet Singh | One Day | 19-09-2023 | GNDEC, Ludhiana |
-| 22      | Gracious giver Apex 2023 | Shivmanmeet Singh | One Day | 20-10-2023 | GNDEC, Ludhiana |
-| 23      | Photography Workshop | Shivmanmeet Singh | One Day | 24-01-2024 | GNDEC, Ludhiana |
-| 24      | Gaana Gupshup | Shivmanmeet Singh | One Day | 07-02-2024 | GNDEC, Ludhiana |
-| 25      | Code Debugging | Shivmanmeet Singh | One Day | 02-02-2024 | GNDEC, Ludhiana |
-| 26      | Flash Fiesta- Photography Workshop | Shivmanmeet Singh | One Day | 09-02-2024 | GNDEC, Ludhiana |
-| 27      | One day event - Voice of 90.8 | Simranjit Kaur | One day |28-02-2024 | FMCRS, GNDEC, Ludhiana |
-| 28      | Problem Poster Debate Techfest| Shivmanmeet Singh | One Day | 06-03-2024 | GNDEC, Ludhiana |
-| 29      | Tech Extempore | Shivmanmeet Singh | One Day | 06-03-2024 | GNDEC, Ludhiana |
-| 30      | Mind Traps | Shivmanmeet Singh | One Day | 14-03-2024 | GNDEC, Ludhiana |
-| 31      | Rahul's Fitness Fiesta | Shivmanmeet Singh | One Day | 21-03-2024 | GNDEC, Ludhiana |
-| 32      | Workshop on start up building | Shivmanmeet Singh | One Day | 01-04-2024 | GNDEC, Ludhiana |
-| 33      | Financial Freedom | Shivmanmeet Singh | One Day | 16-04-2024 | GNDEC, Ludhiana |
-| 34      | "Four week training on Project design using microcontrollers consultancy" | Gurpurneet Kaur, Shivmanmeet Singh, Harminder Kaur, Preeti Pannu | Four weeks | 05-06-2024 to 05-07-2024 | TCC, GNDEC |
-
-
-## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
-
-| Sr. No. | Name of Faculty | Name of Event | Duration | Date(s) | Organizing Institute |
-|:--------|:----------------|:--------------|:---------|:--------|:---------------------|
-|   1   |	Baljeet Kaur	|  Big Data and Analytics |	1 Week |	03-04-2023 to 07-04-2023  |	Dr B R Ambedkar National Institute of Technology Jalandhar |
-|   2   |	Shivmanmeet Singh	|  Performance Evaluation of Inter-satellite Optical Wireless System |	1 Day |	27-04-2023  |	Punjabi University Patiala  |
-|   3   | 	Simranjit Kaur, Dr. Navneet Kaur, Dr. Gurjot Kaur Walia  |	  FDP on Technology Enabled Teaching-Learning  | 1 week   |	28-04-2023 |	NITTTR, Chandigarh |
-|   4   |	Simranjit Kaur |	Workshop on "Antenna fabrication using 3D printing |	1 Day | 29-04-2023	  |	NITTTR, Chandigarh |
-|   5   | Simranjit Kaur |	Workshop on "Translating academics research into industry applications" |	1 Day  |	30-04-2023 | Start up farms, IT park, sec-13, Chandigarh  |
-|   6   | Navneet Kaur |	Webinar on Connecting Curriculum to Careers: Mastering for Credit Online Learning | 1 Day | 03-05-2023 | India Didactics Association and Coursera |
-|   7   | Preeti Pannu, Chahat Jain |	Two days workshop on 3D Printing: A future generation Technology	| 2 Days  | 02-05-2023 to 03-05-2023 | GNDEC, Ludhiana |
-|   8   | Simranjit Kaur, Dr. Gurjot Kaur Walia |	Workshop on "Artificial intelligence and punjabi language: Recent trends and challenges"	| 3 Days  | 06-06-2024 to 08-06-2024 | AICTE-VAANI , GNDEC, Ludhiana |
-|   9   | Navneet Kaur |	Foundations: Data, Data, Everywhere	| 4 weeks  | 06-2023 | Coursera |
-|   10   | Preeti Pannu |	One week short term course on blended learning and flipped classroom	| 1 week  | 16-10-2023 to 20-10-2023 | NITTTR, Chandigarh |
-|   11  | Preeti Pannu, Dr. Gurjot Kaur Walia |	Workshop on OBE under IQAC	| 1 Day  | 16-11-2023 | GNDEC, Ludhiana|
-|   12  | Preeti Pannu |	Workshop on Translating academics research into industry applications	| 1 Day  | 13-12-2023 | IT park, sector 13, Chandigarh|
-|   13  | Simranjit Kaur, Dr. Gurjot Kaur Walia |	STP on "branding of HEIs for Institutional Excellence"	| 1 week  | 11-12-2023 to 15-12-2023 | NITTTR, Chandigarh |
-|   14  | Gurpurneet Kaur |	NPTEL course on Microprocessors and Microcontrollers	| 6 months | Jan - June 2023| NPTEL |
-|   15  | Navneet Kaur |	Building Advanced Data Analytics Applications with Cloud | 5 Days | 08-01-2024 to 12-01-2024 | AICTE and Edunet Foundation |
-|   16  | Preeti Pannu |	Attended knimbus offline training by kansihka Jindal Knimbus india	| 1 Day  | 21-03-2024 | ME Seminar hall, GNDEC, Ludhiana|
-
-
-## Expert Lecture delivered
-
-![Students](Images/pp.jpg)
-![Students](Images/smm.jpeg)
-![Students](Images/g2.jpeg)
-
-- **Preeti Pannu**,	delivered expert lecture on Parametric study of antenna development in Two days workshop on 3D Printing: A future generation Technology, at GNDEC, Ludhiana, 03-05-2023 and "Expert talk on study and hands on training on antenna design using IE3D in Workshop on “Hands on training program on developments in communication engineering and electronics”, at GNDEC, Ludhiana, 26-02-2024.
-
-- **Shivmanmeet Singh**,	delivered expert lecture on Emerging Technologies at GNDEC, Ludhiana, 05-05-2023 and expert lecture on Communication System at GSSS Sidhwan Kalan, 11-11-2023, at GSSS Bilaspur, 18-11-2023 and at GSSS ukhlir, 25-11-2023.
-
-- **Gurjot Kaur Walia**,	delivered expert lecture on 8051-Microcontroller Organized by GNDEC, Ludhiana, 18-10-2023 and Expert talk on Digital Circuit Design using Vivado and Zedboard, Expert Talk on Study and Hands-on training on Raspberry Pi at GNDEC Ludhiana, 21-02-2024.
-
-
-## Student's Corner  
-
-#### - Student's Achievements
-
-![Students](Images/PP2.jpg)
-
-- **Jagjot Singh(URN:2104387)** CSAW 2024(BioHack3d)- Third Prize
-
-----------------------------------------
-![Students](Images/anm.jpeg)
-
-![Students](Images/anm1.jpeg)
-
-- **Anmol Kumar Srivastav(URN:2134680)** represented the drone in IIT Roorkee and Secured 2nd place in RC car race event
 -----------------------------------------
 
-![Students](Images/w.jpeg)
+### Two weeks value added workshop on Hands on Training Program on Embedded systems and VLSI from 19, Feb 2025 to 5, March 2025
+- Chief Coordinator: Dr. Narwant Singh Grewal
+- Coordinator: Dr Munish Rattan and Dr. Baljit Kaur
+- Co-Coordinator: Dr. Gurjot Kaur Walia and Dr. Preeti Pannu
 
-- **Mohammad Yasir(URN:2104400)** launched his application on "National Workshop on Lifestyle for Environment" for Ministry of Forest and Climate organized at Indira Paryavaran Bhawan Headquarters, Ministry of Forest and Climate Change, Govt of India. The Ministry of Forest and Climate Change conducteds this event and invited more than 2000 school children, ENVIS partners from all the states of India. Applications namely,
-i)Water Footprint Calculator ii)Wetlands in India iii)Traditional Water Management Practice.
+![Students](Images/wwww.jpg)
+![Students](Images/zzz1.jpg)
+![Students](Images/zzz2.jpg)
+-----------------------------------------
+
+### Project Design using Arduino and Raspberry Pi from 23, June 2025 to 18, July 2025
+- Coordinator: Dr. Gurpurneet Kaur & Dr. Preeti Pannu
+- Co-Coordinator: Prof. Harminder Kaur D/o Avtar Singh & Dr. Shivmanmeet Singh
+
+
+![Students](Images/dsw11.jpeg)
+![Students](Images/dsw22.jpeg)
+-----------------------------------------
+
+### Visit to Bharat Electronics on 30, June 2025
+
+![Students](Images/bi.jpg)
 
 -----------------------------------------
 
@@ -285,105 +95,10 @@ i)Water Footprint Calculator ii)Wetlands in India iii)Traditional Water Manageme
 
 - The events were organized under the guidance of:
 
--Dr. Munish Rattan (ISF Coordinator)
-
 -Prof. Shivmanmeet Singh (ISF Secretary)
 
--Savnoor Channi (Student Convenor)
-
--DhairyaSobti (Student Co-Convenor)
-
--Anmol Kumar Srivastav (Student Co-Convenor)
-
-
 -----------------------------------------
-### Gusto Knack
 
-![Gusto Knack](Images/GKposter.jpg)
-
-![Gusto Knack](Images/GK1.jpg)
-
-![Gusto Knack](Images/GK2.jpg)
-
-- <div align="jutify"> This event was organized in the Anand Utsav’s Techn-o-Mela on the 16th March 2023. In this event; a team of two or three members were made. There were questions which had to be answered as a team in the first round. Furthermore; the qualifying teams had to split up and the members individually had to play another round of quiz and ones answering the fastest were awarded first, second and third positions respectively.</div>
-
------------------------------------------
-### Workshop on Arduino and Soldering
-
-![Arduino and Soldering](Images/ASposter.png)
-
-![Arduino and Soldering](Images/AS1.jpg)
-
-![Arduino and Soldering](Images/AS2.jpg)
-
-- <div align="jutify"> This event was organized in April 2023; Every Thursday for 3 weeks starting 13th April 2023.This was a workshop organized to make the students familiar with topics like Arduino and Soldering. This was a peer-to-peer event and our kind seniors Puran Singh and Satnam Singh were the tutors for the event. This was a practical learning workshop where students practiced everything themselves simultaneously.</div>
-
------------------------------------------
-### Expert Talk on Emerging Technologies by Prof. P. Prabhakar(Immediate Past President of IETE Student’s Forum)
-
-![Emerging Technologies](Images/ETposter.png)
-
-![Emerging Technologies](Images/ET1.jpeg)
-
-- <div align="jutify">This event was organized on 17th May 2023.The expert lecture was given by IETE Student’s Forum Immediate Past President Prof. P. Prabhakar. Sir educated us about his detailed knowledge about the Emerging Technologies. The listeners also asked any questions they had and discussed about the new possibilities in the technology area.</div>
-
------------------------------------------
-### Expert Talk on Wireless Communication
-
-![Advisor Session (Wireless Communication)](Images/WCposter.jpg)
-
-![Advisor Session (Wireless Communication)](Images/WC1.jpg)
-
-![Advisor Session (Wireless Communication)](Images/WC2.jpg)
-
-- <div align="jutify">This event was organized on 22nd September 2023.The expert lecture was given by Dr. MehtabSingh(Top 1% Researcher in Optical Communication). Sir educated about his detailed knowledge in the topic. He was very cooperative and answered many questions of the listeners. His detailed knowledge in the given topic was extremely helpful to the listeners.</div>
-
--------------‐-------------------------------
-### Code Debugging
-
-![Advisor Session (code)](Images/CDposter.jpg)
-
-![Advisor Session (code)](Images/CD1.jpg)
-
-![Advisor Session (code)](Images/CD2.jpg)
-
-- <div align="jutify">This event was conducted on 02nd February 2024.In this event; in the first round the participants were provided with codes in basic programming languages with errors in them and the participants had to find out the errors in those codes. This round was comparatively kept a little easy than the second round. The selected participants from the first round were forwarded to second round. With  higher difficulty, the errors had to be found in the given codes. Three winners were selected on the basis of the higher score.</div> 
-
-----------------------------------------
-### Flash Fiesta- A peer to peer learning on Photography
-
-![Advisor Session (Flash)](Images/FFposter.jpg)
-
-![Advisor Session (Flash)](Images/FF1.jpg)
-
-![Advisor Session (Flash)](Images/FF2.jpg)
-
-- <div align="jutify">This event was organized on 09th February 2024. This event  was led by our Co-Convenor DhairyaSobti. He shared his immense knowledge in Photography. He shared with us great knowledge about lens , about different camera settings and a lot more. Following which; we followed up a photography competition to test the knowledge taken in. The three winners were selected accordingly.</div> 
-
-------------------------------------------
-### Problem Poster Debate 
-
-![Advisor Session (Problem)](Images/PPDposter.jpg)
-
-![Advisor Session (Problem)](Images/PPD1.jpg)
-
-![Advisor Session (Problem)](Images/PPD2.jpg)
-
-- <div align="jutify">This event was organized in Anand Utsav’s Technomelaon  6th March 2024.A team of three members was made. This was a three round event. In the first round , a problem related to technology or society was provided to the team and they had to find a solution to the given problem in the specified time period. In the second round; a poster representing the problem’s solution had to be made. In the third round; The teams engaged in a debate where they defend their proposed solutions. The teams that stood out in the three rounds were awarded 1st, 2nd and 3rd position accordingly.</div> 
-
-------------------------------------------
-### Expert Talk on Machine Learning and its application using python 
-
-![Advisor Session (Machine)](Images/MLposter.png)
-
-![Advisor Session (Machine)](Images/ML1.png)
-
-![Advisor Session (Machine)](Images/ML2.png)
-
-
-- <div align="jutify">This event was organized on 20th March 2024. The expert talk was given by Mr. Ansh Aneja and his team members. Sir and his team shared great knowledge on the given topic. He demonstrated multiple experimentations and projects related to the topic. This lecture was a really resourceful one.</div>
-
--------------------------------------------
 ### Project Exhibition
 ## Expert Lecture on PLC for Industrial Applications
 
@@ -393,9 +108,9 @@ i)Water Footprint Calculator ii)Wetlands in India iii)Traditional Water Manageme
 
 ![Advisor Session (Machine)](Images/PLC2.png)
 
-- <div align="jutify">This event was organized on 14th August 2024.The event was graced by tutors Satnam Singh and Rajjot Singh. The speakers were well versed with the topic and their great knowledge was so helpful to us in getting detailed knowledge of the topic. The different experiments and projects were helpful in better understanding. We even saw hardware parts of the plc used in industrial applications.</div>
+<div align="jutify"> The PLC workshop usually begins with an introductory session, where participants are briefed on the importance of PLCs in modern industrial processes on 14 Aug 2024. The session outlines how PLCs are used to automate various industrial operations, ranging from simple machine functions to complex processes involving multiple sensors and actuators. Participants are introduced to the basic architecture of PLCs, includingthe central processing unit (CPU), memory, input/output (I/O) modules, and communication interfaces.</div>
 
--------------------------------------------
+-----------------------------------------
 ### Workshop on Cyber Security with Shell Scripting Automation 
 
 ![Advisor Session (Machine)](Images/CSposter.png)
@@ -404,9 +119,9 @@ i)Water Footprint Calculator ii)Wetlands in India iii)Traditional Water Manageme
 
 ![Advisor Session (Machine)](Images/CS2.jpeg)
 
-- <div align="jutify">This event was organized on 3rd September 2024. The expert talk was given by Mr. Ansh Aneja and his team members. Sir and his team shared great knowledge on the given topic. He demonstrated multiple experimentations and projects related to the topic. This lecture was a really resourceful one. The experiments actually give an insightful experience on how things in the industry work.</div>
+<div align="jutify">This event was organized on 3rd September 2024. The expert talk was given by Mr. Ansh Aneja and his team members. Sir and his team shared great knowledge on the given topic. He demonstrated multiple experimentations and projects related to the topic. This lecture was a really resourceful one. The experiments actually give an insightful experience on how things in the industry work.</div>
 
---------------------------------------------
+-----------------------------------------
 ### Hands on Experience on Soldering and Desoldering
 
 ![Advisor Session (Machine)](Images/SDposter.png)
@@ -415,7 +130,7 @@ i)Water Footprint Calculator ii)Wetlands in India iii)Traditional Water Manageme
 
 ![Advisor Session (Machine)](Images/SD2.jpeg)
 
-- <div align="jutify">This event was organized on 11th October 2024.This event was led and supervised by Prof. Shivmanmeet Singh. The event was coordinated by Savnoor Channi(Convenor ISF) and Dhairya Sobti(Co-Convenor ISF).Sir first talked about Soldering and Desoldering. Then a hands on training was done and all the participants did also practice soldering and desoldering.</div>
+<div align="jutify"> In alignment with this vision, ISF hosted a knowledge-based event on October 11, 2024, featuring a lecture by Er. Shivmanmeet Singh, a distinguished professor from the Electronics and Communication Engineering Department. The session focused on the fundamentals of soldering and desoldering, providing students with comprehensive insights into these essential electronic assembly techniques. During the event, the professor delivered an in-depth lecture covering the principles, tools, and best practices of soldering and desoldering. Following the theoretical session, students had the opportunity to apply their learning through a hands-on demonstration, further reinforcing their understanding of the concepts. This event served as a valuable platform for students to gain practical exposure and enhance their technical proficiency in electronics manufacturing and repair.</div>
 
 ----------------------------------------------
 ### Digital Artistry
@@ -426,7 +141,7 @@ i)Water Footprint Calculator ii)Wetlands in India iii)Traditional Water Manageme
 
 ![Advisor Session (Machine)](Images/DA2.jpeg)
 
-- <div align="jutify">This event was organized on 14th October 2024.In this event, team was created of two members each. Further; they were provided with a slogan. They had to present the slogan in the form of a poster. Also; they also had to present their poster and explain it and the presentation should be very appropriate to the slogan.</div>
+<div align="jutify">This event was organized on 14th October 2024.In this event, team was created of two members each. Further; they were provided with a slogan. They had to present the slogan in the form of a poster. Also; they also had to present their poster and explain it and the presentation should be very appropriate to the slogan.</div>
 
 ----------------------------------------------
 ### Two Day Workshop : Digital Electronics and VHDL: From theory to Practice
@@ -437,9 +152,10 @@ i)Water Footprint Calculator ii)Wetlands in India iii)Traditional Water Manageme
 
 ![Advisor Session (Machine)](Images/2DW2.jpeg)
 
-- <div align="jutify">This event was organized on 28th and 29th October 2024. The Workshop Coordinator was Er. KuldeepakSingh . The expert talk was given by Dr. Gurjot Kaur Walia and Er. Kunwar Partap Singh. The topics that were covered were: Combinational Circuit Design and its real life applications, Signal Conversions : Analog and Digital Signals and Programming and Design using VHDL.</div>
+<div align="jutify">This event was organized on 28th and 29th October 2024. The Workshop Coordinator was Er. KuldeepakSingh . The expert talk was given by Dr. Gurjot Kaur Walia and Er. Kunwar Partap Singh. The topics that were covered were: Combinational Circuit Design and its real life applications, Signal Conversions : Analog and Digital Signals and Programming and Design using VHDL.</div>
 
 ---------------------------------------------
+
 ### Poster Designing Competition in collab with Central Library
 
 ![Advisor Session (Machine)](Images/PDposter.jpeg)
@@ -448,7 +164,7 @@ i)Water Footprint Calculator ii)Wetlands in India iii)Traditional Water Manageme
 
 ![Advisor Session (Machine)](Images/PD2.jpeg)
 
-- <div align="jutify">This event was held on 29th October 2024.This competition was held for students to make them familiar with the topics like How to access McGraw Hill ebooks, How to use DELNET, How to access EBSCO Journals, How to access IEEE Journals, How to search a book in WebOpac ; making the students familiar with the library resources. The students were awarded with three positions according to their posters.</div>
+<div align="jutify">This event was held on 29th October 2024.This competition was held for students to make them familiar with the topics like How to access McGraw Hill ebooks, How to use DELNET, How to access EBSCO Journals, How to access IEEE Journals, How to search a book in WebOpac ; making the students familiar with the library resources. The students were awarded with three positions according to their posters.</div>
 
 ---------------------------------------------
 ### 2 Day’s Workshop on 3D Printing : Peer to Peer Learning 
@@ -459,10 +175,10 @@ i)Water Footprint Calculator ii)Wetlands in India iii)Traditional Water Manageme
 
 ![Advisor Session (Machine)](Images/3DP2.jpeg)
 
-- <div align="jutify">This event was held on 11th and 13th November 2024. This workshop was coordinated by Dr. Gurpurneet Kaur and co-coordinated by Prof. Shivmanmeet Singh and the student demonstrator was Anmol Kumar Srivastav(Co-Convenor ISF).The event on day 1 was familiarizing the participants with the topic and day 2 highlighted actually printing in the 3D printing.</div>
+<div align="jutify">This event was held on 11th and 13th November 2024. This workshop was coordinated by Dr. Gurpurneet Kaur and co-coordinated by Prof. Shivmanmeet Singh and the student demonstrator was Anmol Kumar Srivastav(Co-Convenor ISF).The event on day 1 was familiarizing the participants with the topic and day 2 highlighted actually printing in the 3D printing.</div>
 
 ---------------------------------------------
-### TechNova- Project Exhibition
+### Technova
 
 ![Advisor Session (Machine)](Images/TNposter.jpeg)
 
@@ -470,5 +186,372 @@ i)Water Footprint Calculator ii)Wetlands in India iii)Traditional Water Manageme
 
 ![Advisor Session (Machine)](Images/TN2.jpg)
 
+<div align="jutify">ISF organized a Techno event based on Project Exhibition named “Technova” on 25 November, 2024. During the event, participants had the opportunity to display their projects and were required to present and explain their work to both students and judges. This provided them with a platform to showcase their ideas, strengthen their communication skills, and receive constructive feedback from the judges.</div
 
-**Editor: Dr. Preeti Pannu(Assistant Professor(ECE Department))**
+-----------------------------------------
+### Electrified Quizzer
+
+![Electrified Quizzer](Images/EQ.JPG)
+
+<div align="jutify">ISF hosted a Fun-Techno event titled "Electrified Quizzers" on February 3, 2025. During this event, participants were grouped into teams of two. In the first round, the teams were asked to answer 30 electronics-based questions, with a time limitof 10 seconds per question. The top five teams were selected to proceed to the second round, where participants competed individually to solve 20 questions,again with a 10-second time limit per question. From this round, the top five students were chosen and invited to the final round, where they had to answer 10 questions. This event was designed to challenge students' knowledge and quick thinking while promoting a spirit of friendly competition.</div>
+
+-----------------------------------------
+
+### Workshop on Mobile chipset repairing
+
+![Mobile chipset repairing](Images/cs1.JPG)
+
+![Mobile chipset repairing](Images/cs2.JPG)
+
+<div align="jutify"> The IETE Students’ Forum (ISF) at Guru Nanak Dev Engineering College, Ludhiana,hosted a practical and informative workshop on Mobile Chipset Repairing and Software Automation on 11th April 2025.The session was expertly conducted by Mr. Harjot and Mr Abishek, specialists in mobile chipset repair and embedded systems. He provided an in-depth demonstration of chip-level repair techniques, showcasing the use of professional equipment such as digital microscopes, and diagnostic software. A significant portion of the workshop focused on the Apple A13 Bionic chipset, where participants examined its architecture, identified critical components on the motherboard, and explored rework methods commonly applied in modern smartphone servicing. In addition, the workshop covered practical aspects of soldering and desoldering components on the logic board, along with guidance on how iPhone servicing is professionally carried out, including common troubleshooting workflows and repair practices followed in industry labs.</div>
+
+-----------------------------------------
+
+### Guess-a-Graphy
+
+![Advisor Session (Guess-a-Graphy)](Images/gag2.JPG)
+![Advisor Session (Guess-a-Graphy)](Images/gag1.JPG)
+
+<div align="jutify">ISF organise a fun event named” Guess-a-Graphy” based on general knowledge on 23 of April 2025.Guess-a-Graphy was a thrilling and intellectually engaging quiz competition that tested participants’ knowledge of the corporate world through three dynamic rounds.</div>
+
+-------------‐-------------------------------
+### Visit to 5G Communication Lab
+
+![Advisor Session (Visit to 5G Communication Lab)](Images/PEC1.JPG)
+![Advisor Session (Visit to 5G Communication Lab)](Images/PEC2.JPG)
+![Advisor Session (Visit to 5G Communication Lab)](Images/PEC3.JPG)
+
+<div align="jutify">The IETE Students’ Forum (ISF) organized a visit to Punjab Engineering College, Chandigarh, on March 26, 2025, to explore the 5G Communication Lab. The visit provided valuable insights into cutting-edge advancements in 5G technology and its applications .The visit to PEC , Chandigarh. It was aimed at enhancing our understanding of 5G technology and exploring the development of diverse bandwidth networks.</div>
+
+-------------------------------------------
+## Faculty Achievements  
+
+- **Shivmanmeet Singh** has completed Ph.D in Jan 2025 from GNDEC, Ludhiana (Under Automonous Status).
+
+- **Preeti Pannu** reveiewer for 2 manuscripts in Transactions on Emerging Telecommunications Technologies in 2024.
+  
+- **Preeti Pannu** give their contribution in reviewing 2 manuscript in 2024 for Scientific Reports.
+
+- **Preeti Pannu** give their contribution in reviewing 2 manuscript in 2025 for Scientific Reports.
+ 
+- **Preeti Pannu** Reviewer at the 4th International Conference on Advanced Network Technologies and Intelligent Computing (ANTIC-2024) organized by the Department of Computer Science, Institute of Science, Banaras Hindu University (BHU), Varanasi, India, held in hybrid mode during December 19–21, 2024.
+
+- **Gurpurneet Kaur** Reviewer of Manuscripts for International Conference on Digital Innovation in Electronics, Communication and AI (DIECAI-2025)
+
+
+## Publications  (Journals)
+
+[1] Pankaj Palta and **Munish Rattan**, “Effects of Different Substrates for Wearable Patch Antennas at 2.45 GHz,” *Innovations in Computing*, Jan. 2025.
+
+[2] **Navneet Kaur**, Chahat Jain, and Munish Rattan, “Optimized Design of Dual-K Spacer FinFET Using Bio-Inspired Artificial Hummingbird Algorithm at 10 nm Gate Length,” *National Academy Science Letters (Springer India)*, Jan. 2025.
+
+[3] Ram Devi, **Gurpurneet Kaur**, Ameeta Seehra, Munish Rattan, Geetika Aggarwal, and Michael Short, “Low-Power Energy-Efficient Hetero-Dielectric Gate-All-Around MOSFETs: Enablers for Sustainable Smart City Technology,” *Energies*, Mar. 2025.
+
+[4] Ramneet Kaur Sahota, **Preeti Pannu**, **Gurjot Kaur Walia**, **Shivmanmeet Singh**, “Investigation of MDM-WDM ISOWC System Using Hybrid Laguerre Gaussian (LG)-Hermite Gaussian (HG) Intensity Profiles,” *Journal of Optics*, May 2025.
+
+[5] **Daljit Singh**, “Harnessing Immune Mechanisms for Cyber Security – An Intrusion Detection Approach,” *International Journal of Scientific Development and Research*, May 2025.
+
+[6] **Gurpurneet Kaur** *et al*., “Allocation of Stocks in the Portfolio Using Puma Optimizer,” *International Journal of Creative Research Thoughts*, May 2025.
+
+[7] **Harminder Kaur**, **Baljeet Kaur**, and Manjit Singh Bhamrah, “Flat Top Optical Multicarrier Generation for Ultra Dense Asymmetrical Radio over Fiber System,” *Optoelectronics and Advanced Materials – Rapid Communications*, June 2024.
+
+[8] Harmandeep Kaur, **Harleen Kaur**, **Gurleen Kaur**, **Shivmanmeet Singh**, “Inclusion of Digital Electronics in Computer Applications: Architectures, Advancements, and Integration,” *International Journal of Research and Analytical Reviews (IJRAR)*, June 2025.
+
+[9] **Gurleen Kaur**, “A Comprehensive Review of Deep Learning Techniques and Its Applications,” *International Journal of Creative Research Thoughts (IJCRT)*, June 2025.
+
+[10] **Gurleen Kaur**, “Computer Applications in Electronics: Integration, Advancements, and Future Prospects,” *International Journal of Research and Analytical Reviews (IJRAR)*, June 2025.
+
+[11] **Gurleen Kaur**, “Blockchain for Internet of Things: A Survey,” *International Journal of Research and Analytical Reviews (IJRAR)*, June 2025.
+
+[12] **Gurleen Kaur**, “E-Waste Management System in Smart Cities,” *International Journal of Research and Analytical Reviews (IJRAR)*, June 2025.
+
+[13] **Gurleen Kaur**, “Smart Transport System,” *International Journal of Creative Research Thoughts (IJCRT)*, June 2025.
+
+[14] **Gurleen Kaur**, “Data Security and Privacy,” *International Journal of Creative Research Thoughts (IJCRT)*, June 2025.
+
+[15] **Gurleen Kaur**, “Impact of AI on Business and Societies in Smart Cities,” *International Journal of Creative Research Thoughts (IJCRT)*, June 2025.
+
+[16] **Narwant Singh Grewal**, Jaspreet Kaur, and **Navneet Kaur**, “A Symmetrical 32 × 1 and 16 × 1 Elements Antenna Array Failure Correction with Nulls Using Brain Storm Optimization,” *Wireless Personal Communications (Springer)*, July 2024.
+
+[17] Karthickmanoj, T. Sasilatha, D. Lakshmi, Vishal Goyal, Talal Taha Ali, Ajay Nautiyal, Kamal Kant Sharma, Raman Kumar, and **Shivmanmeet Singh**, “Revolutionizing Agricultural Productivity with Automated Early Leaf Disease Detection System for Smart Agriculture Applications Using IoT Platform,” *Environment, Development and Sustainability*, July 2024.
+
+[18] **Daljit Singh**, “Immune Inspired Cyber Defence – An Intrusion Detection Scheme,” *Journal of Emerging Technologies and Innovative Research*, July 2025.
+
+[19] Puran Singh, **Munish Rattan**, **Narwant Singh Grewal**, and Geetika Aggarwal, “Distributed Feature Matching for Robust Object Localization in Robotic Manipulation,” *IEEE Access*, Oct. 2024.
+
+[20] Rajan Vohra, **Kunwar Partap Singh**, Jupinder Kaur, Vishal Jagota, and Jyoti Bhola, “Electronic Properties of ZnO Nanowires: A First-Principles Analysis Using Two-Probe Methodology,” *International Journal of Nanoelectronics and Materials (IJNeaM)*, Oct. 2024.
+
+[21] **Shivmanmeet Singh**, Harmandeep Kaur, and **Preeti Pannu**, “Performance Analysis of QAM and QPSK for FSOWC System Using Machine Learning,” *Journal of Optics*, Oct. 2024.
+
+## Publications  (Conferences)
+
+[1] **Kunwar Partap Singh**, Rajan Vohra, “Comparative Analysis of Electrical Conductance through Guanine and Thymine Based Molecular Devices,” *6th International Conference on Intelligent Circuits and Systems (ICICS-2024)*, Lovely Professional University, Phagwara, 25–26 October 2024, International.
+
+[2] **Narwant Singh Grewal, Preeti Pannu**, “Frequency Reconfigurable Antenna Design Using PSO,” *International Conference on Next-Generation Communication and Computing (NGCCOM-2024)*, ABES Engineering College, Ghaziabad, 5–6 December 2024, International.
+
+[3] **Preeti Pannu, Narwant Singh Grewal, Gurpurneet Kaur**, “Design of Dually Notched Compact 4-Port UWB MIMO Antenna,” *8th International Conference on Micro-Electronics and Telecommunication Engineering*, SRM Institute of Science & Technology, Ghaziabad, 6 December 2024, International.
+
+[4] **Preeti Pannu, Manpreet Kaur, Narwant Singh Grewal**, “Frequency Reconfigurable Antenna Design Using PSO,” *International Conference on Next-Generation Communication and Computing (NGCCOM-2024)*, ABES College, Ghaziabad, 5 December 2024, International.
+
+[5] Arnav Gautam, **Harleen Kaur**, Piyush, “Real Time Weed Detection Using YOLOv8: A Lightweight Vision System for Smart Farming,” *6th International Conference on Data Science and Applications*, Jaipur, 16–18 July 2024, International.
+
+[6] Amandeep Kaur Kang, Shubham Sharma, **Gurjot Kaur Walia**, Manisha, “Application of Artificial Intelligence in Strategic Restaurant Marketing: A Review,” *ISTE National Annual Convention and Yuva Kaushal Utsav 2025*, Lamrin Tech Skill University, Punjab, 13–14 February 2025, International.
+
+[7] Chanpreet Kaur, **Harminder Kaur D/o Avtar Singh**, “Green Computing – A Review,” *International Conference on Sustainable Developments in Computational Optimization and Intelligent Systems (ICSDCOIS-2025)*, Bhai Gurdas Institute of Engineering & Technology, Sangrur, 24–25 April 2025, International.
+
+[8] **Gurjot Kaur Walia, Navneet Kaur, Chahat Jain**, “Bridging Tradition and Technology: Integrating Indian Knowledge Systems with Artificial Intelligence,” *International Conference on Indian Knowledge System: From Glorious Past to Bright Future*, Maharaja Agrasen University, Baddi, in collaboration with I.K. Gujral Punjab Technical University and Baba Mastnath University, 4–5 April 2025, International.
+
+[9] Ramneet Kaur, **Preeti Pannu, Gurjot Kaur**, “Performance Analysis of Radio over FSO for Advanced Modulation Formats,” *6th International Conference on Recent Innovations in Science & Technology*, Holy Grace Academy of Engineering, Mala, Thrissar, Kerala, 27 April 2025, International.
+
+[10] **Gurpurneet Kaur**, Ram Devi, **Munish Rattan, Narwant Singh, Preeti Pannu**, G. Aggarwal, G.P.K. Sohi, “Tunable HfxTi1-xO2 Dielectrics for Low-Power and High-Performance GAA Nanowire MO,” *Nanoelectronics and VLSI Design*, NIT Jalandhar, 5–7 June 2025, International.
+
+[11] **Gurleen Kaur, Gurpurneet Kaur, Baljeet Kaur**, “Emerging Techniques in Underwater Communication: A Comprehensive Review,” *International Conference on Electronics, AI and Computing (EAIC-2025)*, NIT Jalandhar, 5–7 June 2025, International.
+
+[12] **Gurjot Kaur Walia, Navneet Kaur, Chahat Jain**, “Bridging Tradition and Technology: Integrating Indian Knowledge,” *International Conference on Indian Knowledge System: From Glorious Past to Bright Future*, Maharaja Agrasen University, I.K. Gujral Punjab Technical University and Baba Mastnath University, 4–5 April 2025, International.
+
+
+## Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
+
+| Sr. No. | Name of Event                                                  | Faculty Coordinator           | Duration | Date(s)               | Sponsor(s) |
+|:--------|:---------------------------------------------------------------|:------------------------------|:---------|:----------------------|:-----------|
+| 1     | Expert Talk on PLC by Satnam Singh                             | Dr. Shivmanmeet Singh | 1 day    | 14-08-2024      | IETE GNDEC                      |
+| 2     | Core team Meeting                                              | Dr. Shivmanmeet Singh | 1 day    | 20-08-2024      | IETE GNDEC                      |
+| 3     | Workshop on cyber security                                     | Dr. Shivmanmeet Singh | 1 day    | 03-09-2024      | IETE GNDEC                      |
+| 4     | Hands on experience                                            | Dr. Shivmanmeet Singh | 1 day    | 11-10-2024      | IETE GNDEC                      |
+| 5     | digital Artistry                                              | Dr. Shivmanmeet Singh | 1 day    | 14-10-2024      | IETE GNDEC                      |
+| 6     | 2-day Workshop                                                | Dr. Shivmanmeet Singh | 2 days   | 28-10-2024      | IETE GNDEC                      |
+| 7     | 3D- printing workshop                                         | Dr. Shivmanmeet Singh | 1 day    | 13-11-2024      | IETE GNDEC                      |
+| 8     | Technova                                                     | Dr. Shivmanmeet Singh | 1 day    | 25-11-2024      | IETE GNDEC                      |
+| 9     | Electrified Quizzers                                         | Dr. Shivmanmeet Singh | 1 day    | 03-02-2025      | IETE GNDEC                      |
+| 10    | visit to PEC                                                | Dr. Shivmanmeet Singh | 1 day    | 26-03-2025      | IETE GNDEC                      |
+| 11    | Mobile chipset repair workshop                              | Dr. Shivmanmeet Singh | 1 day    | 11-04-2025      | IETE GNDEC                      |
+| 12    | Guess-a-graphy                                             | Dr. Shivmanmeet Singh | 1 day    | 23-04-2025      | IETE GNDEC                      |
+| 13    | One week short term course on “AI applications in VLSI design” in collaboration with NITTTR, Chandigarh | **Dr. Chahat Jain**       | 5 days   | July 14-18, 2025 | NITTTR Chandigarh and GNDEC     |
+
+
+## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
+
+### Preeti Pannu
+
+| Sr.No. | Name of Event | Duration | Date(s) | Organizing Institute |
+|--------|--------------|----------|----------|----------------------|
+| 1 | "One week FDP on IOT and Ubiquitous computing for emerging technical applications(ISTE approved)" | 1 week | 26-30 Aug, 2024 | Vidyalankar Polytechnic, Staff Development committee |
+| 2 | "One week STC on Microstrip patch antenna design techniques and tools" | 1 week | 16 -20 Sept, 2024 | NITTTR, Chandigarh |
+| 4 | One day workshop on swayam nptel | 1 day | 17 April,2025 | IIT Kanpur at GNDEC LUDHIANA |
+| 3 | Two week FDP on Reconfigurable FPGA and Internet of Things | 2 weeks | 21 April-2 May, 2025 | E&ICT Academy PDPM IIITDM Jabalpur |
+| 5 | Demonstration on how to access IEEE and EBSCO journals in digital library | 1 day | 12 May 2025 | GNDEC Ludhiana |
+| 6 | "Webinar on ""Truth in AI Systems"" by DELNET. Truth in AI Systems"" by Prof. Naveen Kumar, Sr. Professor,Dept of Computer Science,University of Delhi" | 1 day | 30 May 2025 | I.K. Gujral Punjab Technical University Office of Dean (Research & Development) |
+
+---
+
+### Harminder Kaur D/o S. Avtar Singh
+
+| Sr.No. | Name of Event | Duration | Date(s) | Organizing Institute |
+|--------|--------------|----------|----------|----------------------|
+| 7 | IOT and Ubiquitous Computing for Emerging Technical Applications | 5 days | 26-30 Aug, 2024 | Vidyalankar Polytechnic college Approved by Indian Society for Technical Education, New Delhi |
+| 8 | Reconfigurable FPGA and Internet of Things | 2 Week | 21 April-2 May, 2025 | Electronics and ICT Academy (Phase-II), Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing, Jabalpur |
+| 23 | International Conference on Sustainable Developments in Computational Optimization and Intelligent systems BGIET Sangrur | 2 days | 24-25 April, 2025 | BGIET Sangrur |
+
+---
+
+### Narwant Singh Grewal
+
+| Sr.No. | Name of Event | Duration | Date(s) | Organizing Institute |
+|--------|--------------|----------|----------|----------------------|
+| 9 | Python for data sciences (NPTEL) | 4 Week | July-August, 2024 | IIT, Madras |
+
+---
+
+### Gurjot Kaur Walia
+
+| Sr.No. | Name of Event | Duration | Date(s) | Organizing Institute |
+|--------|--------------|----------|----------|----------------------|
+| 10 | UGC Zonal Conference on "Implementation on NEP 2020" | 1 day | 02 December 2024 | DAVV, Indore |
+| 11 | Future-Proofing India's Semiconductor Industry: Building a Skilled Workforce | 1 Week | 16-21 Dec, 2024 | GNDEC Ludhiana |
+| 12 | Technological Innovations in Climate Change Adaptation for Sustainability (TICCAS-2025) | 1 week | 10-15 Feb, 2025 | MM Engineering College, Mullana- Ambala |
+
+---
+
+### Navneet Kaur
+
+| Sr.No. | Name of Event | Duration | Date(s) | Organizing Institute |
+|--------|--------------|----------|----------|----------------------|
+| 13 | Workshop on “Photonic Sensors for Biosensing Applications” | 3 Day | 17-19 Oct, 2024 | ISM, Dhanbad |
+| 14 | UGC Zonal Conference on "Implementation on NEP 2020" | 1 day | 02 Dec,2024 | DAVV, Indore |
+| 15 | AICTE ATAL FDP on "Future Tech Revealed: Semiconductors, Quantum Computing, and Data Storage Insights” | 1 week | 20-25 Jan, 2025 | COEP, Technological University |
+| 16 | AICTE ATAL FDP on “Technological Innovations in Climate Change Adaptation for Sustainability (TICCAS-2025)” | 1 week | 10-15 Feb, 2025 | MM Engineering College, Mullana- Ambala |
+| 17 | International Conference on the theme “Indian Knowledge System: From Glorious Past to Bright Future" | 2 day | 04-05 April, 2025 | Maharaja Agrasen University, IKGPTU and Baba Mastnath University |
+| 18 | One day workshop " ISRO Academia Connect for Northern Region" | 1 day | 08 April 2025 | NIT, Kurukshetra |
+
+---
+
+### Gurpurneet Kaur
+
+| Sr.No. | Name of Event | Duration | Date(s) | Organizing Institute |
+|--------|--------------|----------|----------|----------------------|
+| 19 | ISTE Approved One Week Online FDP on IOT and Ubiquitous Computing for Emerging Technical Applications | 1 week | 26-30 Aug,2024 | Vidyalankar Polytechnic College, Wadalam Mumbai |
+| 20 | Future-Proofing India's Semiconductor Industry: Building a Skilled Workforce | 1 week | 16-21 Dec, 2024 | GNDEC Ludhiana |
+
+---
+
+### Kuldeepak Singh
+
+| Sr.No. | Name of Event | Duration | Date(s) | Organizing Institute |
+|--------|--------------|----------|----------|----------------------|
+| 21 | AI for Engineering Applications | 1 week | 04-08 Nov, 2024 | NITTTR, Chandigarh |
+| 22 | Technological Innovations in Climate Change Adaptation for Sustainability (TICCAS-2025) | 1 week | 10-15 Feb, 2025 | MM Engineering College, Mullana- Ambala |
+
+---
+
+### Daljit Singh
+
+| Sr.No. | Name of Event | Duration | Date(s) | Organizing Institute |
+|--------|--------------|----------|----------|----------------------|
+| 24 | AI for Engineering Applications | 1 week | 04-08 Nov, 2024 | NITTTR, Chandigarh |
+| 25 | Drone Technologies, Opportunities and Regulations | 1 week | 18-22 Nov, 2024 | NITTTR, Chandigarh |
+| 26 | Technological Innovations in Climate Change Adaptation for Sustainability (TICCAS-2025) | 1 week | 10-15 Feb, 2025 | MM Engineering College, Mullana- Ambala |
+
+---
+
+### Simranjit Kaur
+
+| Sr.No. | Name of Event | Duration | Date(s) | Organizing Institute |
+|--------|--------------|----------|----------|----------------------|
+| 27 | STC on "Microstrip Patch Antenna design Techniques and Tools " | 1 week | 16-20 Sept, 2024 | NITTTR, Chandigarh |
+| 28 | ATAL FDP on "Future proofing india's semiconductor industry: Building a skilled workforce" | 1 week | 16-21 Dec,2024 | GNDEC Ludhiana |
+| 29 | Technological Innovations in Climate Change Adaptation for Sustainability (TICCAS-2025) | 1 week | 10-15 Feb, 2025 | MM Engineering College, Mullana- Ambala |
+| 30 | Workshop on " IP Blueprint: Navigating Intellectual Property" | 1 day | 15 April 2025 | Sponsored by Punjab State Council, GNDEC Ludhiana |
+
+---
+
+### Harleen Kaur
+
+| Sr.No. | Name of Event | Duration | Date(s) | Organizing Institute |
+|--------|--------------|----------|----------|----------------------|
+| 31 | FDP on Computer Vision in Autonomous Driving | 1 Week | 24-28 Feb, 2025 | VIT, Chennai |
+
+## Expert Lecture delivered
+
+![Students](Images/gpk.jpg)
+
+- **Gurpurneet Kaur**, delivered expert lecture on Counter Design using HDL, at SLIET, Longowal, 25/11/2024 – 29/11/2024; delivered expert lecture on FPGA Implementation of Counter Design, at SLIET, Longowal, 25/11/2024 – 29/11/2024; delivered expert lecture on Overview of HDL using Vivado Design Suite, at GNDEC, Ludhiana, 16/12/2024 – 21/12/2024; delivered expert lecture on Enhancing Energy Efficiency in VLSI Circuits through GA and WOA-based Optimization Techniques, at GNDEC, Ludhiana (in collaboration with NITTTR, Chandigarh), 14/07/2025 – 18/07/2025; and delivered expert lecture on Mini Projects using Raspberry Pi, at GNDEC, Ludhiana, 19/02/2025 – 05/03/2025.
+
+## Placement Record
+### 2024 PASSOUT STUDENTS
+
+| Sr. No. | URN | Name of Student | Company Name | Annual Salary (LPA) |
+|---------|------|----------------|--------------|----------------------|
+| 1 | 2004788 | Adarsh Singh | Airtel | 5.57 |
+| 2 | 2004842 | Pranjal Patel | Airtel | 5.57 |
+| 3 | 2004872 | Vishal Gupta | Amber Enterprises | 3.5 |
+| 4 | 2004864 | Sunita Rao | Amber Enterprises | 3.5 |
+| 5 | 2004980 | Sagar Gaba | Amber Enterprises | 3.5 |
+| 6 | 2004787 | Abhishek Kumar Verma | Corizo | 4 |
+| 7 | 2104445 | Chandan Kumar Mandal | FAIRDEAL COMPONENTS LIMITED | 2.16-2.40 |
+| 8 | 2004846 | Rahul Kumar | FAIRDEAL COMPONENTS LIMITED | 2.4-2.64 |
+| 9 | 2004454 | Nitish Kumar | FAIRDEAL COMPONENTS LIMITED | 2.4-2.64 |
+| 10 | 2004795 | Aman Kumar | FAIRDEAL COMPONENTS LIMITED | 2.4-2.64 |
+| 11 | 2004483 | Sudhanshu Ranjan | KES Security Pvt. Ltd. | 2.4 |
+| 12 | 2104443 | Amandeep Singh | KES Security Pvt. Ltd. | 2.4 |
+| 13 | 2004840 | Prabhat Kumar | KES Security Pvt. Ltd. | 2.4 |
+| 14 | 2004840 | Prabhat Kumar | Spectrum Automation & Controls | 3.18 |
+| 15 | 2004792 | Alok Kumar | Spectrum Automation & Controls | 3.18 |
+| 16 | 2004807 | Ashwin Sharma | Academor | 6.00-8.00 |
+| 17 | 2004871 | Vinay Gupta | Academor | 6.00-8.00 |
+| 18 | 2004850 | Ratshak Gulati | JBS Royal Touch India Private Limited | 9.0-11.0 |
+| 19 | 2004837 | Parul Sharma | TCS (Ninja) | 3.36 |
+| 20 | 2004857 | Shivam Sharma | Airnet Travels and Cargo Pvt. Ltd. | 1.92 |
+| 21 | 2004809 | Bhagya Bharti Khajuria | Kion Group-Dematic | 4 |
+| 22 | 2004818 | Harleen Kaur | Kion Group-Dematic | 4 |
+| 23 | 2004797 | Amiteshwar Singh | MWIDM | 1.8 |
+| 24 | 2005016 | Abhay Saxena | MWIDM | 1.8 |
+| 25 | 2005233 | Nisha Goyal | MWIDM | 1.8 |
+| 26 | 2004454 | Nitish Kumar | R.J. Solar | 5 |
+| 27 | 2004840 | Prabhat Kumar | R.J. Solar | 5 |
+| 28 | 2004853 | Sachin Kumar | R.J. Solar | 5 |
+| 29 | 2004839 | Poonam Grover | Kion India Private Limited | 4 |
+
+### 2025 PASSOUT STUDENTS
+
+| Sr. No. | URN | Name of Student | Name of Company | Salary |
+|---------|------|----------------|------------------|---------|
+| 1 | 2104449 | Jivesh Sharma | Innow 8, Mohali | 23,000/- |
+| 2 | 2004806 | Arpan Behl | Karma Qatar Job Oil Refinery |  |
+| 3 | 2134682 | Gurtej singh | T&D Electronics, Ludhiana | 23,000/- |
+| 4 | 2104430 | Suraj Pathania | Pearce Services Global Private Limited | 25,000/- |
+| 5 | 2104420 | Saadgi Bawa | Antiers Solution, Mohali | 12,000/- |
+| 7 | 2104439 | Vishal Garg | Congruex Asia Pacific LLP (Optical fiber) | 45,000/- |
+| 9 | 2104422 | Satyansh sharma | Infosys | 3.9 LPA |
+| 10 | 2104434 | Upmeet kaur | Congruex Asia Pacific LLP | 45,000/- |
+| 11 | 2104394 | khushi Pandey | Pearce, Mohali | 3 LPA |
+| 13 | 2104432 | Tamanna Sharma | Pearce, Mohali | 5 LPA |
+| 14 | 2104260 | Harmandeep Singh | Pearce, Gurugram | 3.5LPA |
+| 15 | 2104385 | Harsh Upadhyay | Tatras Data service private Ltd (ML) | 48000 |
+| 16 | 2104404 | Nitan Chowdhary | Beats Byjayj | 54000 |
+| 18 | 2104415 | Rishabh Kumar | Prime Steel Processor | 3.8 LPA |
+| 19 | 2104351 | Abhisekh bansal | Prime Steel Processor | 3.8 LPA |
+| 20 | 2104357 | Amandeep | New Swan enterprises | 3.4 LPA |
+| 21 | 2104398 | Manjeet Kumar | Sabki App Private Ltd |  |
+| 22 | 2104427 | Simarjot Singh | Infosys | 3.6 |
+| 26 | 2104403 | Neha Gupta | Pearce, Mohali | 3.5LPA |
+| 27 | 2104354 | Ajeet Mishra | Marques Pvt ltd | 3.85 |
+| 28 | 2104402 | Naveen Kumar | Provana Pvt Ltd | 3 LPA |
+| 30 | 2104413 | Rashmi Kumari | Swaraj Division of Mahindra | 4.2 LPA |
+| 31 | 2104409 | Parveen Raj | Swaraj Division of Mahindra | 4.2 LPA |
+| 32 | 2134680 | Anmol Srivastav | 3 Columns |  |
+| 34 | 2104376 | Charanjot Singh | Eco Powe Solutions |  |
+| 35 | 2104412 | Pushpraj Dwevedi | CWEB Consultant, Mohali | 15k Per Month |
+| 36 | 2104453 | Satnam Singh | Fast Way | 30000 |
+
+## List of Consultancy by ECE Faculty  
+### Session 2024-2025
+
+| S. No. | Name of Faculty | Name of Project | Funding Agency | Category | Amount (Rupees) | Duration | Date of Starting & Completion | Remarks |
+|--------|------------------|------------------|----------------|----------|------------------|----------|-------------------------------|----------|
+| 1 | Gurpurneet Kaur, Harminder Kaur D/o S. Avtar Singh, Preeti Pannu, Shivmanmeet Singh | Project Design Using Microcontrollers | Private (Testing and Consultancy, GNDEC, Ludhiana) | Consultancy |  | Four Weeks | June 2024-July, 2024 | Completed |
+| 2 | Kuldeepak Singh, Daljit Singh, Kunwar Partap Singh | Advanced Simulation Techniques for PLC Automation and IoT in Embedded System | Private (Testing and Consultancy, GNDEC, Ludhiana) | Consultancy |  | Four Weeks | June 2024-July, 2024 | Completed |
+| 3 | Shivmanmeet Singh | Rebotics with ML | Private (Testing and Consultancy, GNDEC, Ludhiana) | Consultancy |  | Four Weeks | June 2024-July, 2024 | Completed |
+
+**Note:** The total combined consultancy fund for all three projects is **Rs. 2,94,000**.
+
+
+## List of Fund
+### Session 2024-2025 – Faculty Projects / Grants
+
+| S. No. | Name of Faculty | Name of Project | Funding Agency | Category | Amount (Rupees) | Duration | Date of Starting & Completion | Remarks |
+|--------|----------------|----------------|----------------|----------|-----------------|----------|-------------------------------|---------|
+| 1 | Munish Rattan, Gurpurneet Kaur | Alumni Grant | GNDEC, Ludhiana | Grants | Rs 25,000 | One year | 2025 | Completed |
+## Student's Corner  
+
+## - Student's Achievements
+
+![Students](Images/HH1.png) ![Students](Images/HH2.png) ![Students](Images/HH3.png)  ![Students](Images/HH5.png)
+
+**Tanmay Kaushal (URN: 2302934)** participated in *All Inida Basic Mountaineering Couse* at Nehru Institute Of Mountaineering (National Level) and Awaded as **Best Mountanier** among Punjab Haryana Himachal Pardesh & Chandigarh Directorate , 08-10-2025.  
+
+**Krishan Kumar (URN: 2435418)** participated in *Re Brand* at Guru Nanak Dev Engineering College, securing **3rd place**, 06-02-2025 &  *MERAKI Hack-the-Throne* Hackathon at IIIT UNA (National Level) – Participation, 07-02-2026.   
+
+**Rishu Jaiswal (URN: 2435436)** participated in *Craft-Prix 2.0* at Guru Nanak Dev Engineering College, securing **2nd place**, 13-02-2025.  
+
+**Harsimran Kaur Bhatti (URN: 2435473)** participated in *Poster Making Competition* on 24-04-2025 and *Tech X Tambola* on 16-09-2025 at GNDEC College, securing **3rd position in Poster Making** and **2nd position in Tech X Tambola**.  
+
+**Navjot Singh (URN: 2435424)** participated in multiple events including *Reel and Video Making Competition*, *Cut to Campus E-Vision* at GNDEC, *Social Media Campaign* at CGC Mohali, *Tech Reel* at Khalsa College, and *Video Editing Workshop* at GNDEC, securing **1st place in all events**, 26-07-2024.  
+
+**Aasa Singh (URN: 2302844)** participated in *Genconian CraftPrix 2.0* at Guru Nanak Dev Engineering College and secured **1st place** in RC Car Competition, 13-02-2025.  
+
+**Arnav Bhardwaj (URN: 2302860)** participated in *Guess a Graphy* at GNDEC and secured **2nd place**, 23-04-2025.  
+
+**Gurleen Kaur (URN: 2302872)** participated in *Future Design Hackathon 2025* (National Level) online and secured **1st place**, 02-05-2025.  
+
+**Gurjot Singh (URN: 2203718)** participated in *Inter College Hockey Tournament* at SVIET and secured **2nd place** while playing as a captain, 11-11-2025.  
+
+**Armaan Dugh (URN: 2302859)** participated in *Hacknauts – Code for Change: Campus Edition* at MBA Block, GNDEC, and was declared **winner**, 16-11-2025.  
+
+**Snover (URN: 2435447)** participated in *Idea and Innovation Competition* at Vijaywada, securing **4th place**, 16-11-2025 & *Drone Camp and IIC* at GNDEC and Vijaywada, securing **4th place in both competitions**, 02-01-2026.    
+
+**Jagjot Singh (URN: 2104387)** secured *Third Prize* in **CSAW 2024 (BioHack3D)**.  
+
+-----------------------------------------
+
+
+# **Editor: Dr. Preeti Pannu(Assistant Professor(ECE Department))**
