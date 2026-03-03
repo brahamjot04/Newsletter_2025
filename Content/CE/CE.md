@@ -2,31 +2,34 @@
 
 ## Message from HoD's Desk  
 
+![SDT](Images/JGS.jpg)
+
+## Message from HoD's Desk  
 
 ![SDT](Images/JGS.jpg)
 
 <p align=justify>
-It is great to note that the 4th edition of online “Newsletter” is being published, which will be a compilation of all achievements of various departments/sections. The efforts of the Editorial Team is highly appreciable.
+It is a matter of pride to present the latest edition of our online “Newsletter,” which highlights the remarkable achievements of our faculty, students, and staff in the Civil Engineering Department. The dedication and efforts of the Editorial Team in compiling this edition are highly commendable.
 </p>
 
 <p align=justify>
-Our vision is to prepare every student for the construction industry and for that our faculty keep updating their knowledge by attending conferencing / workshops / seminars and also contributing to the knowledge pool by conducting research. Our department is committed to providing students with a strong, broad-based fundamental engineering education, using cutting edge technologies and modern equipment. That coupled with dedicated efforts of staff and faculty results in excellent outcomes, which make our students shine in every nook and corner of this planet.
+Our vision remains to equip every student with the knowledge and skills required for the evolving construction industry. To this end, our faculty continually update their expertise by attending conferences, workshops, seminars, and contributing to research in cutting-edge areas of civil engineering. By combining modern technologies with strong fundamental education, our department ensures that students excel in academics, research, and practical applications.
 </p>
 
 <p align=justify>
-We also impart entrepreneurial skills to students through summer internships/workshops, so that they would drive the spirit of growth of our economy and would be able to generate employment opportunities for other qualified and skilled people.
+We also focus on fostering entrepreneurial and innovative thinking through internships, workshops, and projects, enabling students to contribute to economic growth and create employment opportunities for others.
 </p>
+
 <p align=justify>
-I ensure on behalf of my faculty colleagues and staff that we will continue to strive for greater heights in teaching and research that is relevant and shall help in nation-building.
+On behalf of my faculty colleagues and staff, I reaffirm our commitment to advancing teaching, research, and consultancy that are both impactful and relevant to nation-building.
 </p>
+
 <p align=justify>
-Hope readers of this newsletter find the information therein valuable.
+I hope readers of this newsletter find the insights and achievements shared herein both informative and inspiring.
 </p>
 
 Dr. Jagbir Singh 
 HoD, Civil Engineering Department  
-
-Sure! Here's the full content formatted as a **Markdown (`.md`) code block** ready to be saved as `CE.md`:
 
 # Faculty Achievements  
 
