@@ -122,8 +122,8 @@ The students are currently in Ahmedabad to attend the national-level jury schedu
 GNDEC School of Architecture is proud to receive an Appreciation Certificate from NASA India for its active participation and contribution in the events.
 
 Additionally, our USEC Taranbir Singh was honoured with a medal by NASA India in recognition of his dedication, contribution, and efforts in making the unit shine and bring pride to our college at the First General Body Meeting (FGBM) and National India Research Conference (NIRC) held at Vivekananda Global University, Jaipur.
-![](Images/image_21.jpg)
 
+![](Images/image_21.jpg)
 ![](Images/image_22.jpg)
 
 ## Sports- Tennis Team
