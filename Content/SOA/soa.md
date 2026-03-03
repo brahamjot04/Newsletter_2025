@@ -1,3 +1,5 @@
+# School of Architecture
+
 ## Message from the HoD’s Desk
 
 <img src="Images/image_1.png" alt="image" width="250" align="left" style="margin-right: 20px; margin-bottom: 5px;">As the Head GNDEC School of Architecture, I am honored to share with you our educational objective, which is to equip the younger generation with the skills and resilience needed to face life’s challenges. This belief forms the philosophy that drives the essence of our school. At GNDEC School of Architecture, we are committed to the path of success and constantly strive for improvement. We believe that academic excellence is just the beginning. We aim to provide a harmonious environment that nurtures all aspects of an individual, going beyond classroom learning to prepare our students to tackle the ever-changing world. Education is not just a profession for us, but a privilege to work closely with the youth, shaping them into competent and responsible citizens who can shape their own future and that of our country. Our team of skilled and resourceful faculty members is dedicated to taking up challenges and delivering creative and qualitative knowledge in various domains. Our goal is to make GNDEC School of Architecture a globally recognized Design Research institute, putting Ludhiana, Punjab, on the world map. We are constantly working towards strengthening our school of architecture year by year, and we are proud to lead this endeavor. I would like to express my heartfelt gratitude to all our students, faculty, and staff for being a part of our journey towards excellence in architectural education. Together, we can continue to make GNDEC-School of Architecture a center of academic excellence and innovation. Also, we express our sincere gratitude to the Newsletter team for their commendable efforts in compiling and publishing the important outcomes of our department. Your dedication and hard work are truly appreciated. Thank you for keeping our students, faculty, and staff informed and engaged through the GNDEC-SOA Newsletter.<br clear="all">
@@ -132,38 +134,7 @@ GNDEC School of Architecture is glad to share that our Tennis team (Amanpreet, D
 
 ![](Images/image_23.jpg)
 
-## RESEARCH PUBLICATIONS AND PRESENTATIONS
 
-**Ar. Sukhmanjit Singh (Associate Professor)**
-*Publications:*
-- Published research paper on the topic ‘Women Safety in Urban Areas: A Comprehensive Review of Fear and Crime in Built Environment’ in Institute of Town Planners India (ITPI) (UGC care list journal) with ISSN: 0537-9679, Volume 22, Number: 4, Edition: October- December 2025. Journal Homepage: https://journals.itpi.org.in/
-- Published research paper on the topic ‘Role of Technology in Higher Education’ in International Journal of Research and Analytical Reviews (IJRAR) with E-ISSN: 2348-1269 and P-ISSN: 2349-5138. Volume 6, Issue 2, May 2019. Date of publication: 08-05-2019. Published paper URL: http://ijrar.org/viewfull.php?&p_id=IJRAR19M1275
-- Published research paper on the topic ‘Managing Urban Safety Through Design: A Gender- Responsive Decision Framework for Built Environment Performance' in Degres Journal with ISSN: 0376-8163 Paper Id: DEJ/1939. Volume 10, Issue 12, December 2025.
-
-*Papers Presented in Conferences and Seminars:*
-- Presented research paper on the topic ‘Perception of Women About Safety Around Urban Voids and Rethinking Potential Planning Solutions’ in International conference at the International Conference of Psychology and Allied Sciences (ICPAS) Held at London, United Kingdom on September 25 & 26, 2023.
-- Presented research paper as second author on the topic ‘Developing Global Building Energy Efficiency Regulations for Net Zero Energy and Zero Carbon Buildings’ in International conference on Trends in Architecture and Construction (ICTAC-2017) at Chandigarh University, Ghauran, Mohali on September 18, 2017.
-- Presented research paper on the topic ‘Lack of space for vendors in neighborhoods: A case study from Amritsar city’ in a one day national seminar on Multidisciplinary Advanced Research in North-Eastern India (MARNEI-2022) organized by Internal Quality Assurance Cell (IQAC)- Waikhom Mani Girls' College, Thoubal, Okram, Manipur.
-- Presented research paper on the topic ‘The Impact of Social Media on Education’ in International conference on Recent Advances in Science, Education & Technology-ICRASET-2020 at Sydney, Australia on March 5 & 6, 2020.
-- Presented research paper on the topic ‘Addressal of public issues and rethinking public spaces through governance’ in a two-day national seminar on Act local go Global: A step towards Sustainable Future organized by CSH & Guru Ram Das School of Planning Guru Nanak Dev University, Amritsar on August 25 & 26, 2023.
-- Presented research paper on the topic ‘The Continuation of Momentous Cities’ at the National Conclave on Planning Sustainability and Ecological Restoration organised by Department of Urban and Regional Planning, Gautam Buddha University, Greater Noida in collaboration with Institute of Town Planners India, New Delhi (ITPI) Held at Gautam Buddha University, Greater Noida on November 22 & 23, 2024.
-- Presented research paper as second author on the topic ‘Emerging Approaches to future cities: A Pathway for Smart and Sustainable Development’ at the National Conclave on Planning Sustainability and Ecological Restoration organised by Department of Urban and Regional Planning, Gautam Buddha University, Greater Noida in collaboration with Institute of Town Planners India, New Delhi (ITPI) Held at Gautam Buddha University, Greater Noida on November 22 & 23, 2024.
-- Presented research paper on the topic ‘Understanding The Compactness of Cities Concerning Public Perception‘ in a two-day national seminar on Nature based Solutions for Sustainable Habitat jointly organized by Guru Ram Das School of Planning, Guru Nanak Dev University, Amritsar and Association of Punjab Geographers, India on November 08 & 09, 2024.
-
-**Ar. Navjot Kaur (Associate Professor)**
-*Publications:*
-- Research Paper on “Green Buildings Are the Future of Society” (2023), Paper Registration ID: ERCICTEL2303105.
-
-*Papers Presented in Conferences and Seminars:*
-- Presented research paper: "STRATEGIES FOR REDEVELOPMENT OF SECTOR 17, CHANDIGARH".
-
-**Ar. Baljeet Singh (Assistant Professor)**
-*Publications:*
-- Published research paper: "Planning Implications of Highway Corridors on the Levels of development and settlement pattern. (Case study of Haryana state)" - ISSN 2349-5162 © 2022 JETIR September 2022, Volume 9, Issue 9.
-
-*Papers Presented in Conferences and Seminars:*
-- Co-Author and presented research paper on the topic ‘The Continuation of Momentous Cities’ at the National Conclave on Planning Sustainability and Ecological Restoration organised by Department of Urban and Regional Planning, Gautam Buddha University, Greater Noida in collaboration with Institute of Town Planners India, New Delhi (ITPI) Held at Gautam Buddha University, Greater Noida on November 22 & 23, 2024.
-- Second Author and presented research paper on the topic ‘Emerging Approaches to future cities: A Pathway for Smart and Sustainable Development’ at the National Conclave on Planning Sustainability and Ecological Restoration organised by Department of Urban and Regional Planning, Gautam Buddha University, Greater Noida in collaboration with Institute of Town Planners India, New Delhi (ITPI) Held at Gautam Buddha University, Greater Noida on November 22 & 23, 2024.
 
 ## SEMINARS AND CONFERENCES
 
@@ -187,6 +158,156 @@ GNDEC School of Architecture (SOA), Ludhiana successfully organised a one-day NE
 ![](Images/image_26.jpg)
 ![](Images/image_27.jpg)
 ![](Images/image_28.jpg)
+
+## Educational Site Visits
+
+### 3 day Educational Tour for the B.Architecture 3rd year students to Himachal Pradesh
+![image](Images/18.jpg)
+![image](Images/19.jpg)
+![image](Images/20.jpg)
+<p align=justify>
+GNDEC School of Architecture organized a 3 day Educational Tour for the B.Architecture 3rd year students to Himachal Pradesh. On the 1st Day, students visited proposed site for Resort (Studio Project in Architectural Design) with project Architect Rattanlal Sharma in Hamirpur. Students also visited his office in Ghumarwin and two of his built projects on contours. Ar Sharma enlightened the students with his practice and knowledge about Architectural projects on contour sites. On 2nd day, Heritage walk of the Pragpur/Garli (India's 1st Heritage village) was conducted to study the Architectural vocabulary and locally available materials. Students also visited Kaleshwar Temple at the banks of Beas river and conducted the case study of Lalit Palace Hotel on the same day. Students visited NIT, Hamirpur campus on the 3rd and last day of the tour where they met students and faculty of Architecture department. Various resources like project models on contour sites and thesis reports were studied by the students. Prof. (Dr.) Puneet Sharma gave wonderful presentation on Planning principles and construction strategies to be followed at contour sites.
+</p>
+
+### Educational Visit to Kapurthala
+![image](Images/4.jpg)
+![image](Images/5.jpg)
+![image](Images/6.jpg)
+
+<p align=justify>
+GNDEC School of Architecture organized an educational visit to Kapurthala where students visited Rail Coach Factory, Science City and A2A Design Studio. Students learnt about Industrial buildings as they visited RCF where they observed Large Span Steel structures with light weight roofing materials. They also saw installation of different components like Partitions, Air conditioning, Flooring, Lighting, Electrical wires and cable fittings, etc.
+</p>
+
+### One day workshop on concrete organised by GNDEC SoA in collaboration with Ultratech Cement
+![image](Images/7.jpg)
+![image](Images/8.jpg)
+
+<p align=justify>
+GNDEC School of Architecture, Ludhiana organized a One Day Hands-on Workshop on Concrete in collaboration with Ultratech Cement at their plant in Focal Point, Ludhiana. Students worked on different proportions of materials to prepare various grades of concrete. Concrete tests like slump tests, cone tests, setting time tests, etc were also conducted by the students. Mr. Gurpinderjit Singh-Plant Head, Er.Charanjit Singh - Punjab Sales Head, Mr.Rajeev Ranjan-Quality charge, and Mr.Anuj Tayagi - Technical Executive at Ultratech Cement Plant enlightened the students with their practical knowledge about concrete and its constituents.
+</p>
+
+### Seminar on Fundamentals of Refrigeration and Air Conditioning in collaboration with Mechanical engineering Department and supported by ISHRAE
+![image](Images/10.jpg)
+![image](Images/9.jpg)
+
+<p align=justify>
+GNDEC School of Architecture in collaboration with Mechanical Engineering Department organized a seminar on 'Fundamentals of Refrigeration & Air Conditioning' for the students which was supported by ISHRAE Ludhiana Sub-Chapter. We are grateful to Er Akshay Kumar, Associate Manager - Mitsubishi Electric India Private Limited that he visited GNDEC campus as a resource person. His presentation was not only informative but also very interesting and engaging. Dr Sehijpal Singh, Principal - GNDEC lauded the collaboration between two departments and highlighted the significance of inter-disciplinary approach in Technical Education.
+</p>
+
+### Case study Visit for B. Architecture 4th year Students to the SPS hospital, Ludhiana
+![image](Images/11.jpg)
+
+<p align=justify>
+GNDEC School of Architecture organized a Case study Visit for B. Architecture 4th year Students to the SPS hospital, Ludhiana. The main Objective for the case study was to make students understand the important functions like OPD, Emergency, IPD, Diagnostics, ICU/CCU's, OT's, CSSD, etc and their inter-connectivity. We are thankful to Er Charanpreet Singh Ji (Himself GNDEC Alumnus), Bhupinder Ji and complete hospital administration for allowing us to successfully conduct the case study. We congratulate Prof Ravinder Singh & Prof Vivek Sehgal for mentoring the students and creating such excellent opportunities for them to learn.
+</p>
+
+### 'Hands-on Clay Workshop' organised by GNDEC SoA FOR 1st year Students of B.arch
+![image](Images/12.jpg)
+![image](Images/13.jpg)
+![image](Images/14.jpg)
+![image](Images/15.jpg)
+
+<p align=justify>
+GNDEC School of Architecture organized 'Hands-on Clay Workshop' for students of B. Arch 1st year. Workshop was a huge success as students thoroughly enjoyed the event, learnt various skills pertaining to clay modelling and crafted various beautiful models. We are thankful to the resource persons Mr. Tanveer, Ms. Manmeet and Ms. Jasmeet (All 3rd Year Students from BCA department, GNDEC) as they spared the time for students of B.Architecture.
+</p>
+
+### WORLD ARCHITECTURE WEEK- Students create an Amazing Sitting Space in College Campus
+![image](Images/16.jpg)
+![image](Images/17.jpg)
+
+<p align=justify>
+GNDEC School of Architecture is celebrating WORLD ARCHITECTURE WEEK by organizing experiential activities for B.Architecture students. Day 5 (06th October): Students of all the batches put their hands together and created a marvel sitting space in the college campus with waste material like tyres, empty bottles, sacks etc. and has completed the task within a very low budget.
+</p>
+
+### Educational Tour to Jaipur and Jodhpur
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/849589e2-8974-4962-bfdc-0155c3a161e8)
+
+<p align=justify>
+School of Architecture organized one week long Educational Tour for the B.Architecture students of 2nd and 3rd year to Jaipur and Jodhpur. Heritage walk of the walled city Jaipur and Blue city Jodhpur was the prime learning experience for the students. Local architects Ar. Gaurav and Ar. Arjun, Principal Architects, Sawai Design Studio accompanied the students to the various heritage buildings of Jaipur which included Jal Mahal, Hawa Mahal, Amber Fort, Albert Hall Museum, Panna Meena Ka Kund, Birla Mandir, Jagat Shiromani Temple, City Palace, Jantar Mandir and Tripolia Gate. Students also analysed the planning aspects of Jawahar Kala Kendra designed by Charles Correa. Prof. Priyanka Mehta, Head - Faculty of Architecture, MBM University, coordinated well with the faculty and facilitated our students and it was a great experiential learning collaboration between the students of both the colleges as they studied different house typologies, street sections of Old Brahmpuri Area, Jodhpur and visited heritage buildings like Jaswant Thada, Mehrangarh Fort, Toorji Ka Jhalra Bavdi, Ghanta Ghar and Mandore Garden. Students and faculty also had an interactive session with the architects of IIA Rajasthan Chapter particularly Ar.Ankur Tanwar & Office of Ar. Tushar Sogani.
+</p>
+
+## Students & Faculty Achievements
+
+### 67th Foundation Day Celebration at GNDEC
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/5f284d5a-d84f-4eba-8247-1ab193766288)
+
+<p align=justify>
+Students of GNDEC School of Architecture were acknowledged for their brilliance and achievements in academics/co-curricular/extra-curricular events during the 67th Foundation Day Celebration at GNDEC.
+</p>
+
+### A3F sustainable design award bagged by Goresh Saini of 4th Year B.Architecture student
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/8778bd98-50f4-42d4-bc49-25c4def29149)
+
+<p align=justify>
+Goresh Saini, B.Arch 4th year student of GNDEC School of Architecture was declared the winner under the category A3F SD Sharma Sustainable Design Award. Goresh Proposed and designed a community center for the natives of the village Qila Raipur which consisted of a senior citizens centre, panchayat ghar, workshops and vocational training centre. The community centre depicted the rural vernacular architecture of Punjab. The competition was held by A3 Foundation which is an organization for research and promotion of sustainable and innovative architecture in India. The foundation is a brain child of Ar. Sangeet Sharma, practicing architect in Chandigarh which has given platform to many students and amateurs to explore in the field of architecture. The award ceremony was held on 18th March, 2023 in Auditorium, Government Museum, Sector 10, Chandigarh in the presence of many eminent architects from the industry.
+</p>
+
+### GNDEC School of Architecture bagged the First Runner Up Trophy in the Cultural Fest "The Anand Utsav" 2023 at GNDEC campus, Ludhiana
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/a257f7b2-5b7f-43f2-a8fa-83b8a4c292c4)
+
+<p align=justify>
+The most exhilarating two-day Techno-Cultural fest was held on 16-17 March 2023 at Guru Nanak Dev Engineering College. A huge participation was witnessed by GNDEC students and students from other institutions in various cultural and technical events. An exhibition of projects by various professional clubs of college students was also an attracting feature of the event. The panel of judges from diverse fields and esteemed institutes of the region were called upon for fair and viable results. Many deserving students achieved laurels in the field of academics and extracurricular activities at the fest.
+</p>
+
+### ARCHUMEN 22-23; India's biggest Architecture quiz, held on 10th February, 2023 in SPA, New Delhi
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/dfe9aad4-137c-4f19-bb77-9f2b9e1db115)
+
+### B.Architecture students Awaljot Kaur, Shivangi Singh and Urja Kaushal have been awarded for their writing skills at 'First Friday Forum' which was held in Chandigarh College of Architecture (CCA) on 22nd October, 2023
+![image](Images/21.jpg)
+
+### Jaismeen Kaur; B.Architecture 5th year student has played a key role in GNDEC winning overall Trophy in I.K.G. PTU Inter College Cycling competition on 28th September, 2023
+![image](Images/20.jpg)
+
+### Gursehaj Kaur; B.Architecture 3rd year student has played a key role in GNDEC bagging 1st runner up trophy in I.K.G. PTU Inter College Chess tournament
+![image](Images/22.jpg)
+
+## Publications
+
+### Ar. Akanksha Sharma
+- "Emerging Need for Incorporating Sustainable Principles in Building and Habitat Design" Sustainable Innovative Techniques in Architecture, Civil and Environment Engineering, ISBN : 978-1-63248-030-9
+- "A Way for Sustainable Living" Descriptio An International Referred Journal of Apeejay College of Fine Arts, Jalandhar, (India) ISSN No.22494480
+- "Passive Construction Techniques: A Review on Residential Buildings of Ludhiana" JETIR, Volume 5, Issue 12, Journal of Emerging Technologies and Innovative Research (JETIR) www.jetir.org ISSN: 2349-5162 (UGC approved journal)
+- "Strategies for mitigating urban heat island in model town jalandhar punjab india", IJRAR1BLP152 International Journal of Research and Analytical Reviews (IJRAR) www.ijrar.org, Volume 6, Issue 1 www.ijrar.org (E-ISSN 2348-1269, P-ISSN 2349-5138) http://www.ijrar.org/papers/IJRAR1BLP152.pdf
+
+### Ar. Vivek Sehgal
+- Anudesh Saini, Goresh Saini, Jaya Verma, Vivek Sehgal*(2022) Evaluating Criteria for Sustainable Development: A case of Qila Raipur, International Journal of Sustainable Building Technology, Volume 5, Issue 1.
+- Baweja Tavleen, Sehgal Vivek, Saini Sanjiv. Bioclimatic Architecture: Improvised Blend of Tradition and Innovation. IJRAR, Published Paper ID-IJRAR1BLP127
+- Sehgal Vivek, Putta Vanitha. Propagating Smart from Beautiful. IJRAR, Published Paper ID-IJRAR1BMP163
+- Sehgal Vivek, Kaur Harsimran. Urban Heritage Conservation for Sustainable Development: A Case of Kapurthala. Proceedings of International Conference on Sustainable Development Through Engineering Innovations, organized by GNDEC, Ludhiana. ISSN 2366-2557 & ISBN 978-981-15-9553-0. Published by Springer.
+- Rehal Prashant, Chani Prabhjot, Sehgal Vivek. Ageing-Friendly Neighbourhoods: A Study of Mobility and Out-of-Home Activity. Proceedings of International Conference on Sustainable Development Through Engineering Innovations, organized by GNDEC, Ludhiana. ISSN 2366-2557 & ISBN 978-981-15-9553-0. Published by Springer.
+- Presented research paper, "Evaluating Ease of Living Index" during an International Doctoral Consortium organized by Chitkara University, Rajpura, Punjab on 03rd November, 2023.
+- Presented research paper, "Investigating Quality of Life of Labour Community in Ludhiana" during an International Conference organized by LSAD, LPU, Phagwara, Punjab on 13th October, 2023.
+
+### Ar. Sukhmanjit Singh
+*Publications:*
+- Published research paper on the topic 'Women Safety in Urban Areas: A Comprehensive Review of Fear and Crime in Built Environment' in Institute of Town Planners India (ITPI) (UGC care list journal) with ISSN: 0537-9679, Volume 22, Number: 4, Edition: October- December 2025. Journal Homepage: https://journals.itpi.org.in/
+- Published research paper on the topic 'Role of Technology in Higher Education' in International Journal of Research and Analytical Reviews (IJRAR) with E-ISSN: 2348-1269 and P-ISSN: 2349-5138. Volume 6, Issue 2, May 2019. Date of publication: 08-05-2019. Published paper URL: http://ijrar.org/viewfull.php?&p_id=IJRAR19M1275
+- Published research paper on the topic 'Managing Urban Safety Through Design: A Gender-Responsive Decision Framework for Built Environment Performance' in Degres Journal with ISSN: 0376-8163 Paper Id: DEJ/1939. Volume 10, Issue 12, December 2025.
+
+*Papers Presented in Conferences and Seminars:*
+- Presented research paper on the topic 'Perception of Women About Safety Around Urban Voids and Rethinking Potential Planning Solutions' in International conference at the International Conference of Psychology and Allied Sciences (ICPAS) Held at London, United Kingdom on September 25 & 26, 2023.
+- Presented research paper as second author on the topic 'Developing Global Building Energy Efficiency Regulations for Net Zero Energy and Zero Carbon Buildings' in International conference on Trends in Architecture and Construction (ICTAC-2017) at Chandigarh University, Ghauran, Mohali on September 18, 2017.
+- Presented research paper on the topic 'Lack of space for vendors in neighborhoods: A case study from Amritsar city' in a one day national seminar on Multidisciplinary Advanced Research in North-Eastern India (MARNEI-2022) organized by Internal Quality Assurance Cell (IQAC)- Waikhom Mani Girls' College, Thoubal, Okram, Manipur.
+- Presented research paper on the topic 'The Impact of Social Media on Education' in International conference on Recent Advances in Science, Education & Technology-ICRASET-2020 at Sydney, Australia on March 5 & 6, 2020.
+- Presented research paper on the topic 'Addressal of public issues and rethinking public spaces through governance' in a two-day national seminar on Act local go Global: A step towards Sustainable Future organized by CSH & Guru Ram Das School of Planning Guru Nanak Dev University, Amritsar on August 25 & 26, 2023.
+- Presented research paper on the topic 'The Continuation of Momentous Cities' at the National Conclave on Planning Sustainability and Ecological Restoration organised by Department of Urban and Regional Planning, Gautam Buddha University, Greater Noida in collaboration with Institute of Town Planners India, New Delhi (ITPI) Held at Gautam Buddha University, Greater Noida on November 22 & 23, 2024.
+- Presented research paper as second author on the topic 'Emerging Approaches to future cities: A Pathway for Smart and Sustainable Development' at the National Conclave on Planning Sustainability and Ecological Restoration organised by Department of Urban and Regional Planning, Gautam Buddha University, Greater Noida in collaboration with Institute of Town Planners India, New Delhi (ITPI) Held at Gautam Buddha University, Greater Noida on November 22 & 23, 2024.
+- Presented research paper on the topic 'Understanding The Compactness of Cities Concerning Public Perception' in a two-day national seminar on Nature based Solutions for Sustainable Habitat jointly organized by Guru Ram Das School of Planning, Guru Nanak Dev University, Amritsar and Association of Punjab Geographers, India on November 08 & 09, 2024.
+
+### Ar. Navjot Kaur
+*Publications:*
+- Research Paper on "Green Buildings Are the Future of Society" (2023), Paper Registration ID: ERCICTEL2303105.
+
+*Papers Presented in Conferences and Seminars:*
+- Presented research paper: "STRATEGIES FOR REDEVELOPMENT OF SECTOR 17, CHANDIGARH".
+
+### Ar. Baljeet Singh
+*Publications:*
+- Published research paper: "Planning Implications of Highway Corridors on the Levels of development and settlement pattern. (Case study of Haryana state)" - ISSN 2349-5162 (c) 2022 JETIR September 2022, Volume 9, Issue 9.
+
+*Papers Presented in Conferences and Seminars:*
+- Co-Author and presented research paper on the topic 'The Continuation of Momentous Cities' at the National Conclave on Planning Sustainability and Ecological Restoration organised by Department of Urban and Regional Planning, Gautam Buddha University, Greater Noida in collaboration with Institute of Town Planners India, New Delhi (ITPI) Held at Gautam Buddha University, Greater Noida on November 22 & 23, 2024.
+- Second Author and presented research paper on the topic 'Emerging Approaches to future cities: A Pathway for Smart and Sustainable Development' at the National Conclave on Planning Sustainability and Ecological Restoration organised by Department of Urban and Regional Planning, Gautam Buddha University, Greater Noida in collaboration with Institute of Town Planners India, New Delhi (ITPI) Held at Gautam Buddha University, Greater Noida on November 22 & 23, 2024.
 
 ## Student Internships amongst India’s Top 30 Architectural Consultancy Firms
 
