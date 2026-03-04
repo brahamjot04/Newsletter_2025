@@ -25,11 +25,11 @@ Member of Ludhiana Smart City Limited Technical Sub Committee
 
 ## FACULTY AND STAFF MEMBERS
 
-### We are a team of dedicated and hardworking professionals at GNDEC SOA, committed to delivering knowledge with excellence. Through our collective expertise and continuous efforts, we go beyond conventional teaching practices to ensure meaningful learning, practical exposure, and academic growth. Our focus remains on nurturing competence, innovation, and professionalism by investing extra time and effort in mentoring, guidance, and skill development.
+We are a team of dedicated and hardworking professionals at GNDEC SOA, committed to delivering knowledge with excellence. Through our collective expertise and continuous efforts, we go beyond conventional teaching practices to ensure meaningful learning, practical exposure, and academic growth. Our focus remains on nurturing competence, innovation, and professionalism by investing extra time and effort in mentoring, guidance, and skill development.
 
 ## Left To Right
 
-### Ar. Vivek Sehgal (Associate Professor), Ar. Sukhmanjit Singh (Associate Professor), Ar. Baljeet Singh (Assistant professor), ar. Akanksha Sharma (Head of GNDEC- SOA), TPr. (Ar.) Shivani Garg (Assistant Professor), Ar. Navjot Kaur (Associate Professor), Ar. Harsimranjeet Kaur (Assistant Professor), ID. Ramanpreet Kaur (Assistant professor), Ar. Moksha Bhatia (Assistant Professor)
+Ar. Vivek Sehgal (Associate Professor), Ar. Sukhmanjit Singh (Associate Professor), Ar. Baljeet Singh (Assistant professor), ar. Akanksha Sharma (Head of GNDEC- SOA), TPr. (Ar.) Shivani Garg (Assistant Professor), Ar. Navjot Kaur (Associate Professor), Ar. Harsimranjeet Kaur (Assistant Professor), ID. Ramanpreet Kaur (Assistant professor), Ar. Moksha Bhatia (Assistant Professor)
 
 ![](Images/image_3.jpg)
 
