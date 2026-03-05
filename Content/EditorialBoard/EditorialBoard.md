@@ -3,7 +3,7 @@
 
 ***Editors-in-Chief***
 
-- [Er. Chamkaur Jindal (MPE)](https://gndec.ac.in/faculty/?id=105)
+- [Dr. Chamkaur Jindal (MPE)](https://gndec.ac.in/faculty/?id=105)
 - [Dr. Yuvraj Singh (CE)](Profiles/YJS.md)
 - [Prof. Nisha (App.Sci.)](https://gndec.ac.in/faculty/?id=377)
 - [Er. Kapil Sharma (CSE)](https://gndec.ac.in/faculty/?id=209)
@@ -12,7 +12,7 @@
 
 - [Er. Mandeep Kaur (CE)](https://gndec.ac.in/faculty/?id=249)
 - [Er. Karanbir Singh (EE)](https://gndec.ac.in/faculty/?id=341) [and Er. Arshdeep Kaur (EE)](https://gndec.ac.in/faculty/?id=271)
-- [Er. Preeti Pannu (ECE)](https://gndec.ac.in/faculty/?id=267)
+- [Dr. Preeti Pannu (ECE)](https://gndec.ac.in/faculty/?id=267)
 - [Er. Kamaljeeet (CSE)](https://gndec.ac.in/faculty/?id=425)
 - [Er. Reema Verma (IT)](https://gndec.ac.in/faculty/?id=412)
 - [Er. Prem Singh (MPE)](https://gndec.ac.in/faculty/?id=102)
@@ -26,7 +26,7 @@
 ***Contributing Editors***
 
 - [Dr. Arvind Dhingra (STEP)](https://gndec.ac.in/faculty/?id=68)
-- [Er. Satjot Singh Dhillon (PRO)](https://gndec.ac.in/faculty/?id=182) [and Er. Preeti Pannu (APRO)](https://gndec.ac.in/faculty/?id=267)
+- [Dr. Satjot Singh Dhillon (PRO)](https://gndec.ac.in/faculty/?id=182) [and Dr. Preeti Pannu (APRO)](https://gndec.ac.in/faculty/?id=267)
 - [Er. Jaswant Singh (Cultural Committee)](https://gndec.ac.in/faculty/?id=333)
 
 
@@ -36,7 +36,7 @@
 - [Dr. Jagbir Singh, HoD (CE)](https://gndec.ac.in/faculty/?id=99)
 - [Dr. Harmeet Singh, HoD (MPE)](https://gndec.ac.in/faculty/?id=6)
 - [	Dr. Kanwardeep Singh, HoD (EE)](https://gndec.ac.in/faculty/?id=61)
-- [Dr. Narwant Singh Grewal, HoD (ECE)](https://gndec.ac.in/faculty/?id=41)
+- [Dr. Munish Rattan, HoD (ECE)](https://ece.gndec.ac.in/sites/default/files/5.MR_FACULTY%20PROFILE_0_0.pdf)
 - [Dr. Kiran Jyoti, HoD (CSE)](https://gndec.ac.in/faculty/?id=364)
 - [Dr. Kulvinder Singh Mann, HoD (IT)](https://gndec.ac.in/faculty/?id=53)
 - [Dr. Harpreet kaur Grewal, HoD (App. Sci.)](https://gndec.ac.in/faculty/?id=71)
