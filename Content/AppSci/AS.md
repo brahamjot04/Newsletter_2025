@@ -25,6 +25,8 @@ HoD, Department of Applied Sciences
 
 ## Event Highlights  
 
+<img width="618" height="411" alt="image" src="https://github.com/user-attachments/assets/838a1990-ff13-4cac-90d3-aaaf5148dc04" />
+
 ### GNE’s APEX 2024  
 **Date:** October 25, 2024  
 Organized by the Causmic Club, this inter-school competition celebrated Mr. Ratan N. Tata, highlighting leadership and humanity.  
