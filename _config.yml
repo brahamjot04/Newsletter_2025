@@ -1,0 +1,10 @@
+title: GNDEC Times 2025
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - README.md

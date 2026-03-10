@@ -1,6 +1,6 @@
 # GNDEC Times 2025 (Vol. 13)
 
-| [Home](README.md) | [Contents](Content/CoverPage/Contents.md) | [Editorial Board](Content/EditorialBoard/EditorialBoard.md) | [GNDEC Home](https://gndec.ac.in/) | [Contact Us](Content/CoverPage/Contact.md) |  
+| [Home](index.md) | [Contents](Content/CoverPage/Contents.md) | [Editorial Board](Content/EditorialBoard/EditorialBoard.md) | [GNDEC Home](https://gndec.ac.in/) | [Contact Us](Content/CoverPage/Contact.md) |  
 
 
 ![GNDEC](Content/CoverPage/Images/GNDEC.png)
